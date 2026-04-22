@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardCornerRadius="28dp"
+    app:cardElevation="12dp"
+    app:strokeWidth="1dp"
+    app:strokeColor="?attr/colorOutline">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:padding="24dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <!-- APP TITLE -->
+            <TextView
+                android:text="@string/zquiz"
+                android:textSize="32sp"
+                android:textStyle="bold"
+                android:textColor="?attr/colorPrimary"
+                android:layout_gravity="center"
+                android:layout_marginBottom="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <!-- SUBTITLE -->
+            <TextView
+                android:text="@string/customize_your_quiz_experience"
+                android:textSize="14sp"
+                android:textColor="?attr/colorOnSurfaceVariant"
+                android:layout_gravity="center"
+                android:layout_marginBottom="24dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <!-- CATEGORY -->
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/Widget.Material3.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/category"
+                >
+
+                <AutoCompleteTextView
+                    android:id="@+id/spinnerCategory"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="none"
+                    tools:ignore="LabelFor" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!-- DIFFICULTY -->
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/Widget.Material3.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+                android:layout_marginTop="16dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/difficulty"
+                tools:ignore="ExtraText">
+
+                <AutoCompleteTextView
+                    android:id="@+id/spinnerDifficulty"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="none" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!-- NUMBER OF QUESTIONS -->
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/Widget.Material3.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+                android:layout_marginTop="16dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/number_of_questions"
+                >
+
+                <AutoCompleteTextView
+                    android:id="@+id/spinnerQuestions"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="none"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!-- TIME PER QUESTION -->
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/Widget.Material3.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+                android:layout_marginTop="16dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/time_per_question_seconds">
+
+                <AutoCompleteTextView
+                    android:id="@+id/spinnerTime"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="none"
+                    tools:ignore="LabelFor" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!-- START BUTTON -->
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnStart"
+                android:text="@string/start_quiz"
+                android:textAllCaps="false"
+                android:layout_marginTop="28dp"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                app:cornerRadius="28dp"
+                app:iconGravity="textStart"
+                app:iconPadding="8dp"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</com.google.android.material.card.MaterialCardView>

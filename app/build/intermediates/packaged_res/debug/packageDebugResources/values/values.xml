@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="correct">#2E7D32</color>
+    <color name="neutral">#9E9E9E</color>
+    <color name="option_default">#5E35B1</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="wrong">#C62828</color>
+    <string name="app_name">ZQuiz</string>
+    <string name="category">Category</string>
+    <string name="customize_your_quiz_experience">Customize your quiz experience</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="feedback_goes_here">Feedback goes here</string>
+    <string name="go_home">Go Home</string>
+    <string name="number_of_questions">Number of Questions</string>
+    <string name="option_a">Option A</string>
+    <string name="option_b">Option B</string>
+    <string name="option_c">Option C</string>
+    <string name="option_d">Option D</string>
+    <string name="play_again">Play Again</string>
+    <string name="question_here">Question here</string>
+    <string name="question_will_appear_here">Question will appear here</string>
+    <string name="quiz_app">Quiz App</string>
+    <string name="quiz_completed">Quiz Completed 🎉</string>
+    <string name="restart_quiz">Restart Quiz</string>
+    <string name="sample">Sample</string>
+    <string name="score_0">Score: 0</string>
+    <string name="score_0_10">Score: 0 / 10</string>
+    <string name="select_category">Select Category</string>
+    <string name="select_difficulty">Select Difficulty</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="time_10">Time: 10</string>
+    <string name="time_10s">Time: 10s</string>
+    <string name="time_per_question_seconds">Time per Question (seconds)</string>
+    <string name="zquiz">ZQuiz</string>
+    <style name="Base.Theme.ZQuiz" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ZQuiz" parent="Base.Theme.ZQuiz"/>
+</resources>
