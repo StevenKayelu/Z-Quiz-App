@@ -23,11 +23,6 @@ data class Question(
 
     // Returns Difficulty Weight to be used in categorization
     fun getScoreWeight(): Int {
-        return when (difficulty.lowercase()) {
-            "easy" -> 1
-            "medium" -> 2
-            "hard" -> 3
-            else -> 1
-        }
+        return 1;
     }
 }
