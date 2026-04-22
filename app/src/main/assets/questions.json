@@ -6184,7 +6184,146 @@
     "answer": "B",
     "explanation": "Financial independence means income covers living expenses without dependence on employment."
   },
+   
+  {
+    "id": 491,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is compound annual growth rate (CAGR)?",
+    "choices": [
+      "A. Simple yearly profit",
+      "B. Average annual growth rate of an investment over time",
+      "C. Monthly salary increase",
+      "D. Tax rate"
+    ],
+    "answer": "B",
+    "explanation": "CAGR represents the smoothed annual growth rate of an investment over a period of time."
+  },
+  {
+    "id": 492,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What does a high debt-to-equity ratio indicate?",
+    "choices": [
+      "A. Low financial risk",
+      "B. High reliance on borrowed funds",
+      "C. No liabilities",
+      "D. High cash reserves"
+    ],
+    "answer": "B",
+    "explanation": "A high debt-to-equity ratio shows that a company is using more debt than equity to finance its operations."
+  },
+  {
+    "id": 493,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is cost of capital?",
+    "choices": [
+      "A. Free money",
+      "B. Cost of obtaining funds for investment",
+      "C. Salary expense",
+      "D. Profit margin"
+    ],
+    "answer": "B",
+    "explanation": "Cost of capital is the required return needed to make an investment worthwhile."
+  },
+  {
+    "id": 494,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is hedging in finance?",
+    "choices": [
+      "A. Increasing risk",
+      "B. Reducing financial risk using strategies",
+      "C. Borrowing money",
+      "D. Saving only"
+    ],
+    "answer": "B",
+    "explanation": "Hedging involves strategies to reduce or offset potential financial losses."
+  },
+  {
+    "id": 495,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is amortization?",
+    "choices": [
+      "A. Immediate payment",
+      "B. Gradual repayment of debt over time",
+      "C. Profit increase",
+      "D. Salary bonus"
+    ],
+    "answer": "B",
+    "explanation": "Amortization spreads loan repayment over time through scheduled payments."
+  },
+  {
+    "id": 496,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is a liquidity ratio used for?",
+    "choices": [
+      "A. Measuring profit",
+      "B. Measuring ability to pay short-term debts",
+      "C. Measuring sales growth",
+      "D. Measuring taxes"
+    ],
+    "answer": "B",
+    "explanation": "Liquidity ratios show how easily a company can meet short-term obligations."
+  },
+  {
+    "id": 497,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is systematic risk?",
+    "choices": [
+      "A. Risk affecting a single company",
+      "B. Market-wide risk affecting all investments",
+      "C. No risk",
+      "D. Only tax risk"
+    ],
+    "answer": "B",
+    "explanation": "Systematic risk affects the entire financial market and cannot be diversified away."
+  },
+  {
+    "id": 498,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is unsystematic risk?",
+    "choices": [
+      "A. Market-wide risk",
+      "B. Risk specific to a company or industry",
+      "C. Inflation risk",
+      "D. Government policy risk"
+    ],
+    "answer": "B",
+    "explanation": "Unsystematic risk affects a specific company or industry and can be reduced through diversification."
+  },
+  {
+    "id": 499,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is asset allocation?",
+    "choices": [
+      "A. Investing in one asset",
+      "B. Dividing investments among different asset classes",
+      "C. Spending all money",
+      "D. Borrowing funds"
+    ],
+    "answer": "B",
+    "explanation": "Asset allocation spreads investments to balance risk and return."
+  },
+  {
+    "id": 500,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is financial independence?",
+    "choices": [
+      "A. Depending on loans",
+      "B. Having enough income to cover expenses without active work",
+      "C. Having no savings",
+      "D. Being unemployed"
+    ],
+    "answer": "B",
+    "explanation": "Financial independence means your income (investments/business) covers your living costs."
+  }
   
-
-
 ]
