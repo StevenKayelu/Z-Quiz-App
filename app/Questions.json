@@ -1,0 +1,891 @@
+[
+  {
+    "id": 1,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to Ephesians 2:8-9, how is a person saved in Christ?",
+    "choices": [
+      "A. By good works and obedience to the law",
+      "B. By grace through faith, not by works",
+      "C. By giving offerings regularly",
+      "D. By personal righteousness"
+    ],
+    "answer": "B",
+    "explanation": "Salvation is a gift from God, not earned by human effort. KJV: \"For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast.\" (Ephesians 2:8-9)"
+  },
+  {
+    "id": 2,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "In John 19:30, when Jesus said 'It is finished', what did He signify?",
+    "choices": [
+      "A. His teachings were complete",
+      "B. The work of redemption was fully accomplished",
+      "C. The disciples were now ready",
+      "D. The world had ended"
+    ],
+    "answer": "B",
+    "explanation": "Jesus completed the work of salvation on the cross. KJV: \"When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.\" (John 19:30)"
+  },
+  {
+    "id": 3,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to Romans 5:1, what is the result of being justified by faith?",
+    "choices": [
+      "A. Wealth and prosperity",
+      "B. Peace with God through Jesus Christ",
+      "C. Freedom from all problems",
+      "D. Immediate perfection"
+    ],
+    "answer": "B",
+    "explanation": "Justification brings reconciliation with God. KJV: \"Therefore being justified by faith, we have peace with God through our Lord Jesus Christ.\" (Romans 5:1)"
+  },
+  {
+    "id": 4,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "Based on 2 Corinthians 5:17, what happens when someone is in Christ?",
+    "choices": [
+      "A. They become sinless instantly",
+      "B. They become a new creation",
+      "C. They lose their identity",
+      "D. They stop facing challenges"
+    ],
+    "answer": "B",
+    "explanation": "Being in Christ brings spiritual transformation. KJV: \"Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.\" (2 Corinthians 5:17)"
+  },
+  {
+    "id": 5,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to Romans 3:23-24, how are people justified before God?",
+    "choices": [
+      "A. By following traditions",
+      "B. By grace through the redemption in Christ Jesus",
+      "C. By strict discipline",
+      "D. By human wisdom"
+    ],
+    "answer": "B",
+    "explanation": "All have sinned, but justification is freely given through Christ. KJV: \"Being justified freely by his grace through the redemption that is in Christ Jesus.\" (Romans 3:24)"
+  },
+  {
+    "id": 6,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "In Hebrews 10:14, what does Christ’s one sacrifice achieve?",
+    "choices": [
+      "A. Temporary forgiveness",
+      "B. Eternal perfection of believers",
+      "C. Repeated cleansing",
+      "D. Partial salvation"
+    ],
+    "answer": "B",
+    "explanation": "Christ’s sacrifice is once and sufficient. KJV: \"For by one offering he hath perfected for ever them that are sanctified.\" (Hebrews 10:14)"
+  },
+  {
+    "id": 7,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to Colossians 2:13-14, what did Christ do with our sins?",
+    "choices": [
+      "A. Ignored them",
+      "B. Covered them temporarily",
+      "C. Forgave them and canceled the record of debt",
+      "D. Delayed judgment"
+    ],
+    "answer": "C",
+    "explanation": "Christ removed the guilt of sin completely. KJV: \"Blotting out the handwriting of ordinances that was against us... nailing it to his cross.\" (Colossians 2:14)"
+  },
+  {
+    "id": 8,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "Based on Galatians 2:20, what defines the believer’s new life?",
+    "choices": [
+      "A. Living by human effort",
+      "B. Living by faith in the Son of God",
+      "C. Following religious laws",
+      "D. Avoiding all difficulties"
+    ],
+    "answer": "B",
+    "explanation": "The Christian life is lived by faith in Christ. KJV: \"I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me... I live by the faith of the Son of God.\" (Galatians 2:20)"
+  },
+  {
+    "id": 9,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to Romans 8:1, what is true for those in Christ Jesus?",
+    "choices": [
+      "A. They are still condemned",
+      "B. They are under judgment",
+      "C. There is no condemnation for them",
+      "D. They must earn forgiveness"
+    ],
+    "answer": "C",
+    "explanation": "Believers are free from condemnation. KJV: \"There is therefore now no condemnation to them which are in Christ Jesus.\" (Romans 8:1)"
+  },
+  {
+    "id": 10,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "In Ephesians 1:7, what do believers receive through Christ’s blood?",
+    "choices": [
+      "A. Temporary blessings",
+      "B. Redemption and forgiveness of sins",
+      "C. Earthly success only",
+      "D. Religious status"
+    ],
+    "answer": "B",
+    "explanation": "Redemption comes through Christ’s sacrifice. KJV: \"In whom we have redemption through his blood, the forgiveness of sins.\" (Ephesians 1:7)"
+  },
+  {
+    "id": 11,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to Titus 3:5, how does God save us?",
+    "choices": [
+      "A. By works of righteousness",
+      "B. By strict law keeping",
+      "C. According to His mercy through regeneration",
+      "D. By human discipline"
+    ],
+    "answer": "C",
+    "explanation": "Salvation is based on God's mercy, not works. KJV: \"Not by works of righteousness which we have done, but according to his mercy he saved us.\" (Titus 3:5)"
+  },
+  {
+    "id": 12,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "In Romans 6:23, what is the gift of God?",
+    "choices": [
+      "A. Wealth",
+      "B. Eternal life in Christ",
+      "C. Long life",
+      "D. Wisdom"
+    ],
+    "answer": "B",
+    "explanation": "Eternal life is a gift through Christ. KJV: \"For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.\" (Romans 6:23)"
+  },
+  {
+    "id": 13,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to 1 John 1:7, what does the blood of Jesus do?",
+    "choices": [
+      "A. Makes us wealthy",
+      "B. Gives us power",
+      "C. Cleanses us from all sin",
+      "D. Removes challenges"
+    ],
+    "answer": "C",
+    "explanation": "The blood of Jesus cleanses believers. KJV: \"The blood of Jesus Christ his Son cleanseth us from all sin.\" (1 John 1:7)"
+  },
+  {
+    "id": 14,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to Hebrews 9:22, what is necessary for forgiveness?",
+    "choices": [
+      "A. Prayer",
+      "B. Fasting",
+      "C. Good deeds",
+      "D. Shedding of blood"
+    ],
+    "answer": "D",
+    "explanation": "Forgiveness requires sacrifice. KJV: \"Without shedding of blood is no remission.\" (Hebrews 9:22)"
+  },
+  {
+    "id": 15,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "In 2 Corinthians 5:21, what exchange took place through Christ?",
+    "choices": [
+      "A. Wealth for poverty",
+      "B. Strength for weakness",
+      "C. Sin for righteousness",
+      "D. Knowledge for ignorance"
+    ],
+    "answer": "C",
+    "explanation": "Christ took our sin so we receive righteousness. KJV: \"For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.\" (2 Corinthians 5:21)"
+  },
+  {
+    "id": 16,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to Acts 4:12, where is salvation found?",
+    "choices": [
+      "A. In human effort",
+      "B. In religious traditions",
+      "C. In no other name but Jesus Christ",
+      "D. In good works"
+    ],
+    "answer": "C",
+    "explanation": "Salvation is exclusively through Christ. KJV: \"Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.\" (Acts 4:12)"
+  },
+  {
+    "id": 17,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to Romans 10:13, who will be saved?",
+    "choices": [
+      "A. Only the righteous",
+      "B. Whoever calls on the name of the Lord",
+      "C. Only church leaders",
+      "D. Only Israelites"
+    ],
+    "answer": "B",
+    "explanation": "Salvation is available to all who call on the Lord. KJV: \"For whosoever shall call upon the name of the Lord shall be saved.\" (Romans 10:13)"
+  },
+  {
+    "id": 18,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "In John 1:12, what is given to those who receive Christ?",
+    "choices": [
+      "A. Wealth",
+      "B. Authority to become children of God",
+      "C. Power over others",
+      "D. Immediate success"
+    ],
+    "answer": "B",
+    "explanation": "Believers receive a new identity. KJV: \"But as many as received him, to them gave he power to become the sons of God.\" (John 1:12)"
+  },
+  {
+    "id": 19,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to Ephesians 1:13, what happens after believing in Christ?",
+    "choices": [
+      "A. You become perfect",
+      "B. You receive earthly riches",
+      "C. You are sealed with the Holy Spirit",
+      "D. You stop facing trials"
+    ],
+    "answer": "C",
+    "explanation": "Believers are sealed by the Spirit. KJV: \"After that ye believed, ye were sealed with that holy Spirit of promise.\" (Ephesians 1:13)"
+  },
+  {
+    "id": 20,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to 1 Timothy 2:5, who is the mediator between God and men?",
+    "choices": [
+      "A. Angels",
+      "B. Prophets",
+      "C. Priests",
+      "D. Jesus Christ"
+    ],
+    "answer": "D",
+    "explanation": "Christ alone mediates salvation. KJV: \"For there is one God, and one mediator between God and men, the man Christ Jesus.\" (1 Timothy 2:5)"
+  },
+  {
+    "id": 36,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 4:5, how is righteousness credited to a person?",
+    "choices": [
+      "A. By works of the law",
+      "B. By faith in Him who justifies the ungodly",
+      "C. By religious rituals",
+      "D. By moral discipline"
+    ],
+    "answer": "B",
+    "explanation": "Righteousness is imputed by faith, not works. KJV: \"But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness.\" (Romans 4:5)"
+  },
+  {
+    "id": 37,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Galatians 2:16, why is a person not justified by the works of the law?",
+    "choices": [
+      "A. Because the law is evil",
+      "B. Because works are unnecessary",
+      "C. Because justification comes through faith in Jesus Christ",
+      "D. Because the law was abolished before Christ"
+    ],
+    "answer": "C",
+    "explanation": "Justification is through faith, not law. KJV: \"Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ.\" (Galatians 2:16)"
+  },
+  {
+    "id": 38,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Hebrews 10:10, how are believers sanctified?",
+    "choices": [
+      "A. By repeated sacrifices",
+      "B. By personal holiness efforts",
+      "C. By the offering of Jesus Christ once for all",
+      "D. By fasting and prayer"
+    ],
+    "answer": "C",
+    "explanation": "Sanctification is through Christ’s sacrifice. KJV: \"We are sanctified through the offering of the body of Jesus Christ once for all.\" (Hebrews 10:10)"
+  },
+  {
+    "id": 39,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to 2 Corinthians 5:18-19, what ministry has been given to believers?",
+    "choices": [
+      "A. Ministry of wealth",
+      "B. Ministry of judgment",
+      "C. Ministry of reconciliation",
+      "D. Ministry of law enforcement"
+    ],
+    "answer": "C",
+    "explanation": "Believers share the message of reconciliation. KJV: \"God... hath given to us the ministry of reconciliation.\" (2 Corinthians 5:18)"
+  },
+  {
+    "id": 40,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 8:2, what has made believers free?",
+    "choices": [
+      "A. The law of Moses",
+      "B. The law of the Spirit of life in Christ Jesus",
+      "C. Human effort",
+      "D. Religious traditions"
+    ],
+    "answer": "B",
+    "explanation": "Freedom comes through the Spirit. KJV: \"The law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.\" (Romans 8:2)"
+  },
+
+  {
+    "id": 41,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Colossians 1:21-22, how are believers presented before God?",
+    "choices": [
+      "A. Guilty and condemned",
+      "B. Holy, blameless, and unreprovable",
+      "C. Weak and imperfect",
+      "D. Under judgment"
+    ],
+    "answer": "B",
+    "explanation": "Christ reconciles believers fully. KJV: \"To present you holy and unblameable and unreproveable in his sight.\" (Colossians 1:22)"
+  },
+  {
+    "id": 42,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Ephesians 2:13, what has brought believers near to God?",
+    "choices": [
+      "A. Good works",
+      "B. Church attendance",
+      "C. The blood of Christ",
+      "D. Religious rituals"
+    ],
+    "answer": "C",
+    "explanation": "Access to God is through Christ. KJV: \"Ye who sometimes were far off are made nigh by the blood of Christ.\" (Ephesians 2:13)"
+  },
+  {
+    "id": 43,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 5:9, what are believers saved from?",
+    "choices": [
+      "A. Poverty",
+      "B. Sickness",
+      "C. Wrath through Christ",
+      "D. Human suffering"
+    ],
+    "answer": "C",
+    "explanation": "Christ saves from judgment. KJV: \"Being now justified by his blood, we shall be saved from wrath through him.\" (Romans 5:9)"
+  },
+  {
+    "id": 44,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Galatians 3:26, how do people become children of God?",
+    "choices": [
+      "A. By works",
+      "B. By law",
+      "C. By faith in Christ Jesus",
+      "D. By tradition"
+    ],
+    "answer": "C",
+    "explanation": "Faith defines sonship. KJV: \"For ye are all the children of God by faith in Christ Jesus.\" (Galatians 3:26)"
+  },
+  {
+    "id": 45,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Hebrews 9:12, how did Christ obtain eternal redemption?",
+    "choices": [
+      "A. By animal sacrifices",
+      "B. By His own blood",
+      "C. By law keeping",
+      "D. By priesthood lineage"
+    ],
+    "answer": "B",
+    "explanation": "Christ’s sacrifice is final. KJV: \"By his own blood he entered in once... having obtained eternal redemption.\" (Hebrews 9:12)"
+  },
+
+  {
+    "id": 46,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Philippians 3:9, righteousness comes through:",
+    "choices": [
+      "A. The law",
+      "B. Human effort",
+      "C. Faith in Christ",
+      "D. Religious duty"
+    ],
+    "answer": "C",
+    "explanation": "True righteousness is through Christ. KJV: \"The righteousness which is of God by faith.\" (Philippians 3:9)"
+  },
+  {
+    "id": 47,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 6:14, believers are under:",
+    "choices": [
+      "A. The law",
+      "B. Judgment",
+      "C. Grace",
+      "D. Condemnation"
+    ],
+    "answer": "C",
+    "explanation": "Grace governs the believer. KJV: \"Ye are not under the law, but under grace.\" (Romans 6:14)"
+  },
+  {
+    "id": 48,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Colossians 2:10, believers are:",
+    "choices": [
+      "A. Incomplete",
+      "B. Perfected in Christ",
+      "C. Still lacking",
+      "D. Under judgment"
+    ],
+    "answer": "B",
+    "explanation": "Christ completes the believer. KJV: \"Ye are complete in him.\" (Colossians 2:10)"
+  },
+  {
+    "id": 49,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to 1 Corinthians 1:30, Christ is made unto us:",
+    "choices": [
+      "A. Wealth only",
+      "B. Wisdom, righteousness, sanctification, and redemption",
+      "C. Judgment",
+      "D. Law"
+    ],
+    "answer": "B",
+    "explanation": "Christ is our total provision. KJV: \"Who of God is made unto us wisdom, and righteousness, and sanctification, and redemption.\" (1 Corinthians 1:30)"
+  },
+  {
+    "id": 50,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Ephesians 1:3, believers are blessed with:",
+    "choices": [
+      "A. Earthly riches",
+      "B. Physical strength",
+      "C. Spiritual blessings in heavenly places",
+      "D. Political power"
+    ],
+    "answer": "C",
+    "explanation": "Blessings are spiritual in Christ. KJV: \"Blessed us with all spiritual blessings in heavenly places in Christ.\" (Ephesians 1:3)"
+  },
+
+  {
+    "id": 51,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 8:30, what sequence describes God's work in salvation?",
+    "choices": [
+      "A. Called, justified, glorified, predestined",
+      "B. Predestined, called, justified, glorified",
+      "C. Justified, called, glorified, predestined",
+      "D. Glorified, justified, called, predestined"
+    ],
+    "answer": "B",
+    "explanation": "God’s redemptive plan follows a divine order. KJV: \"Whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.\" (Romans 8:30)"
+  },
+  {
+    "id": 52,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Hebrews 4:16, how should believers approach God?",
+    "choices": [
+      "A. With fear and hesitation",
+      "B. With boldness to obtain mercy and grace",
+      "C. Through priests only",
+      "D. With offerings first"
+    ],
+    "answer": "B",
+    "explanation": "Christ gives direct access to God. KJV: \"Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.\" (Hebrews 4:16)"
+  },
+  {
+    "id": 53,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 8:11, what does the Spirit do for believers?",
+    "choices": [
+      "A. Gives wealth",
+      "B. Makes them rulers",
+      "C. Quickens their mortal bodies",
+      "D. Removes all struggles"
+    ],
+    "answer": "C",
+    "explanation": "The Spirit gives life. KJV: \"He that raised up Christ... shall also quicken your mortal bodies.\" (Romans 8:11)"
+  },
+  {
+    "id": 54,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Colossians 1:27, what is the mystery revealed to believers?",
+    "choices": [
+      "A. Wealth and prosperity",
+      "B. Christ in you, the hope of glory",
+      "C. Power over nations",
+      "D. Hidden laws"
+    ],
+    "answer": "B",
+    "explanation": "Christ lives in believers. KJV: \"Christ in you, the hope of glory.\" (Colossians 1:27)"
+  },
+  {
+    "id": 55,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to 2 Timothy 1:9, how were believers called?",
+    "choices": [
+      "A. According to works",
+      "B. According to grace given in Christ before time",
+      "C. According to effort",
+      "D. According to law"
+    ],
+    "answer": "B",
+    "explanation": "Calling is based on grace. KJV: \"Who hath saved us... according to his own purpose and grace, which was given us in Christ Jesus before the world began.\" (2 Timothy 1:9)"
+  },
+  {
+    "id": 56,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 5:17, believers reign in life through:",
+    "choices": [
+      "A. Their strength",
+      "B. Abundance of grace and the gift of righteousness",
+      "C. Law keeping",
+      "D. Wealth"
+    ],
+    "answer": "B",
+    "explanation": "Grace empowers believers. KJV: \"They which receive abundance of grace... shall reign in life by one, Jesus Christ.\" (Romans 5:17)"
+  },
+  {
+    "id": 57,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Ephesians 4:32, why should believers forgive others?",
+    "choices": [
+      "A. To gain favor",
+      "B. Because God forgave them in Christ",
+      "C. To avoid punishment",
+      "D. To appear righteous"
+    ],
+    "answer": "B",
+    "explanation": "Forgiveness flows from grace. KJV: \"Even as God for Christ's sake hath forgiven you.\" (Ephesians 4:32)"
+  },
+  {
+    "id": 58,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Hebrews 7:25, what is Christ able to do?",
+    "choices": [
+      "A. Judge only",
+      "B. Save completely those who come to God through Him",
+      "C. Teach only",
+      "D. Lead nations"
+    ],
+    "answer": "B",
+    "explanation": "Christ saves fully and continually. KJV: \"Able also to save them to the uttermost that come unto God by him.\" (Hebrews 7:25)"
+  },
+  {
+    "id": 59,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 8:15, believers have received:",
+    "choices": [
+      "A. Spirit of fear",
+      "B. Spirit of bondage",
+      "C. Spirit of adoption",
+      "D. Spirit of law"
+    ],
+    "answer": "C",
+    "explanation": "Believers are adopted into God’s family. KJV: \"Ye have received the Spirit of adoption, whereby we cry, Abba, Father.\" (Romans 8:15)"
+  },
+  {
+    "id": 60,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Galatians 4:7, believers are:",
+    "choices": [
+      "A. Servants only",
+      "B. Slaves of law",
+      "C. Sons and heirs through Christ",
+      "D. Under judgment"
+    ],
+    "answer": "C",
+    "explanation": "Believers inherit through Christ. KJV: \"Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.\" (Galatians 4:7)"
+  },
+
+  {
+    "id": 61,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 8:33, who can bring a charge against God's elect?",
+    "choices": [
+      "A. Satan",
+      "B. The law",
+      "C. No one, because God justifies",
+      "D. Angels"
+    ],
+    "answer": "C",
+    "explanation": "Justification is God's act, so no accusation stands. KJV: \"Who shall lay any thing to the charge of God's elect? It is God that justifieth.\" (Romans 8:33)"
+  },
+  {
+    "id": 62,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to 1 Corinthians 6:11, what have believers been through Christ?",
+    "choices": [
+      "A. Judged only",
+      "B. Washed, sanctified, and justified",
+      "C. Tested only",
+      "D. Perfected instantly"
+    ],
+    "answer": "B",
+    "explanation": "Salvation involves cleansing and justification. KJV: \"But ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus.\" (1 Corinthians 6:11)"
+  },
+  {
+    "id": 63,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Ephesians 1:5, believers are predestined unto:",
+    "choices": [
+      "A. Judgment",
+      "B. Adoption as children by Jesus Christ",
+      "C. Law keeping",
+      "D. Religious service"
+    ],
+    "answer": "B",
+    "explanation": "God's plan is adoption through Christ. KJV: \"Having predestinated us unto the adoption of children by Jesus Christ to himself.\" (Ephesians 1:5)"
+  },
+  {
+    "id": 64,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Hebrews 10:17, what does God say about believers' sins?",
+    "choices": [
+      "A. He remembers them always",
+      "B. He judges them daily",
+      "C. He forgets them temporarily",
+      "D. He remembers them no more"
+    ],
+    "answer": "D",
+    "explanation": "Forgiveness is complete under the New Covenant. KJV: \"Their sins and iniquities will I remember no more.\" (Hebrews 10:17)"
+  },
+  {
+    "id": 65,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 5:2, believers have access into grace through:",
+    "choices": [
+      "A. Works",
+      "B. Faith in Christ",
+      "C. Law keeping",
+      "D. Religious rituals"
+    ],
+    "answer": "B",
+    "explanation": "Faith grants access into grace. KJV: \"By whom also we have access by faith into this grace wherein we stand.\" (Romans 5:2)"
+  },
+  {
+    "id": 66,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Colossians 1:14, what do believers have in Christ?",
+    "choices": [
+      "A. Wealth",
+      "B. Authority",
+      "C. Redemption through His blood",
+      "D. Power over nations"
+    ],
+    "answer": "C",
+    "explanation": "Redemption is through Christ’s sacrifice. KJV: \"In whom we have redemption through his blood, even the forgiveness of sins.\" (Colossians 1:14)"
+  },
+  {
+    "id": 67,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to 2 Corinthians 1:22, what has God given believers as a guarantee?",
+    "choices": [
+      "A. Wealth",
+      "B. The Spirit in their hearts",
+      "C. Power",
+      "D. Knowledge"
+    ],
+    "answer": "B",
+    "explanation": "The Spirit is a seal and guarantee. KJV: \"Who hath also sealed us, and given the earnest of the Spirit in our hearts.\" (2 Corinthians 1:22)"
+  },
+  {
+    "id": 68,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Galatians 5:1, believers should stand fast in:",
+    "choices": [
+      "A. The law",
+      "B. Traditions",
+      "C. The liberty where Christ has made them free",
+      "D. Religious rules"
+    ],
+    "answer": "C",
+    "explanation": "Christ brings freedom from bondage. KJV: \"Stand fast therefore in the liberty wherewith Christ hath made us free.\" (Galatians 5:1)"
+  },
+  {
+    "id": 69,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 8:17, believers are heirs with Christ if:",
+    "choices": [
+      "A. They work hard",
+      "B. They keep the law",
+      "C. They suffer with Him",
+      "D. They pray daily"
+    ],
+    "answer": "C",
+    "explanation": "Suffering identifies believers with Christ. KJV: \"If so be that we suffer with him, that we may be also glorified together.\" (Romans 8:17)"
+  },
+  {
+    "id": 70,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Hebrews 10:19, believers have boldness to enter the holiest by:",
+    "choices": [
+      "A. Good works",
+      "B. The blood of Jesus",
+      "C. Religious rituals",
+      "D. Priestly mediation"
+    ],
+    "answer": "B",
+    "explanation": "Access to God is through Christ’s blood. KJV: \"Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus.\" (Hebrews 10:19)"
+  },
+
+  {
+    "id": 71,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Romans 3:26, how does God remain just while justifying sinners?",
+    "choices": [
+      "A. By ignoring sin",
+      "B. Through the sacrifice of Christ satisfying justice",
+      "C. By lowering His standards",
+      "D. By delaying judgment"
+    ],
+    "answer": "B",
+    "explanation": "Justice is fulfilled in Christ. KJV: \"That he might be just, and the justifier of him which believeth in Jesus.\" (Romans 3:26)"
+  },
+  {
+    "id": 72,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Hebrews 8:12, what defines the New Covenant?",
+    "choices": [
+      "A. Strict law enforcement",
+      "B. Repeated sacrifices",
+      "C. Complete forgiveness and no remembrance of sins",
+      "D. Temple rituals"
+    ],
+    "answer": "C",
+    "explanation": "The New Covenant emphasizes forgiveness. KJV: \"Their sins and their iniquities will I remember no more.\" (Hebrews 8:12)"
+  },
+  {
+    "id": 73,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Colossians 2:12, believers are raised with Christ through:",
+    "choices": [
+      "A. Works",
+      "B. Faith in God's power",
+      "C. Rituals",
+      "D. Law"
+    ],
+    "answer": "B",
+    "explanation": "Faith connects believers to resurrection life. KJV: \"Ye are risen with him through the faith of the operation of God.\" (Colossians 2:12)"
+  },
+  {
+    "id": 74,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Romans 6:6, what was crucified with Christ?",
+    "choices": [
+      "A. The body only",
+      "B. The old man",
+      "C. The spirit",
+      "D. The law"
+    ],
+    "answer": "B",
+    "explanation": "Old identity was crucified. KJV: \"Knowing this, that our old man is crucified with him.\" (Romans 6:6)"
+  },
+  {
+    "id": 75,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to 2 Corinthians 3:6, what does the Spirit do?",
+    "choices": [
+      "A. Condemns",
+      "B. Teaches law",
+      "C. Gives life",
+      "D. Judges"
+    ],
+    "answer": "C",
+    "explanation": "The Spirit brings life. KJV: \"The letter killeth, but the spirit giveth life.\" (2 Corinthians 3:6)"
+  },
+  {
+    "id": 76,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Hebrews 12:2, Jesus is the author and finisher of:",
+    "choices": [
+      "A. The law",
+      "B. Our faith",
+      "C. Creation",
+      "D. Judgment"
+    ],
+    "answer": "B",
+    "explanation": "Faith begins and ends in Christ. KJV: \"Looking unto Jesus the author and finisher of our faith.\" (Hebrews 12:2)"
+  },
+  {
+    "id": 77,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Romans 11:6, grace is:",
+    "choices": [
+      "A. Based on works",
+      "B. Opposed to works",
+      "C. Dependent on effort",
+      "D. Temporary"
+    ],
+    "answer": "B",
+    "explanation": "Grace and works cannot mix. KJV: \"If by grace, then is it no more of works.\" (Romans 11:6)"
+  },
+  {
+    "id": 78,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Ephesians 1:11, believers obtain inheritance through:",
+    "choices": [
+      "A. Works",
+      "B. Predestination according to God's purpose",
+      "C. Law",
+      "D. Effort"
+    ],
+    "answer": "B",
+    "explanation": "Inheritance is God's plan. KJV: \"Being predestinated according to the purpose of him.\" (Ephesians 1:11)"
+  }
+
+
+]

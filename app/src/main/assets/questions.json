@@ -1,0 +1,6190 @@
+[
+  {
+    "id": 1,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to Ephesians 2:8-9, how is a person saved in Christ?",
+    "choices": [
+      "A. By good works and obedience to the law",
+      "B. By grace through faith, not by works",
+      "C. By giving offerings regularly",
+      "D. By personal righteousness"
+    ],
+    "answer": "B",
+    "explanation": "Salvation is a gift from God, not earned by human effort. KJV: \"For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast.\" (Ephesians 2:8-9)"
+  },
+  {
+    "id": 2,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "In John 19:30, when Jesus said 'It is finished', what did He signify?",
+    "choices": [
+      "A. His teachings were complete",
+      "B. The work of redemption was fully accomplished",
+      "C. The disciples were now ready",
+      "D. The world had ended"
+    ],
+    "answer": "B",
+    "explanation": "Jesus completed the work of salvation on the cross. KJV: \"When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.\" (John 19:30)"
+  },
+  {
+    "id": 3,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to Romans 5:1, what is the result of being justified by faith?",
+    "choices": [
+      "A. Wealth and prosperity",
+      "B. Peace with God through Jesus Christ",
+      "C. Freedom from all problems",
+      "D. Immediate perfection"
+    ],
+    "answer": "B",
+    "explanation": "Justification brings reconciliation with God. KJV: \"Therefore being justified by faith, we have peace with God through our Lord Jesus Christ.\" (Romans 5:1)"
+  },
+  {
+    "id": 4,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "Based on 2 Corinthians 5:17, what happens when someone is in Christ?",
+    "choices": [
+      "A. They become sinless instantly",
+      "B. They become a new creation",
+      "C. They lose their identity",
+      "D. They stop facing challenges"
+    ],
+    "answer": "B",
+    "explanation": "Being in Christ brings spiritual transformation. KJV: \"Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.\" (2 Corinthians 5:17)"
+  },
+  {
+    "id": 5,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to Romans 3:23-24, how are people justified before God?",
+    "choices": [
+      "A. By following traditions",
+      "B. By grace through the redemption in Christ Jesus",
+      "C. By strict discipline",
+      "D. By human wisdom"
+    ],
+    "answer": "B",
+    "explanation": "All have sinned, but justification is freely given through Christ. KJV: \"Being justified freely by his grace through the redemption that is in Christ Jesus.\" (Romans 3:24)"
+  },
+  {
+    "id": 6,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "In Hebrews 10:14, what does Christ’s one sacrifice achieve?",
+    "choices": [
+      "A. Temporary forgiveness",
+      "B. Eternal perfection of believers",
+      "C. Repeated cleansing",
+      "D. Partial salvation"
+    ],
+    "answer": "B",
+    "explanation": "Christ’s sacrifice is once and sufficient. KJV: \"For by one offering he hath perfected for ever them that are sanctified.\" (Hebrews 10:14)"
+  },
+  {
+    "id": 7,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to Colossians 2:13-14, what did Christ do with our sins?",
+    "choices": [
+      "A. Ignored them",
+      "B. Covered them temporarily",
+      "C. Forgave them and canceled the record of debt",
+      "D. Delayed judgment"
+    ],
+    "answer": "C",
+    "explanation": "Christ removed the guilt of sin completely. KJV: \"Blotting out the handwriting of ordinances that was against us... nailing it to his cross.\" (Colossians 2:14)"
+  },
+  {
+    "id": 8,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "Based on Galatians 2:20, what defines the believer’s new life?",
+    "choices": [
+      "A. Living by human effort",
+      "B. Living by faith in the Son of God",
+      "C. Following religious laws",
+      "D. Avoiding all difficulties"
+    ],
+    "answer": "B",
+    "explanation": "The Christian life is lived by faith in Christ. KJV: \"I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me... I live by the faith of the Son of God.\" (Galatians 2:20)"
+  },
+  {
+    "id": 9,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to Romans 8:1, what is true for those in Christ Jesus?",
+    "choices": [
+      "A. They are still condemned",
+      "B. They are under judgment",
+      "C. There is no condemnation for them",
+      "D. They must earn forgiveness"
+    ],
+    "answer": "C",
+    "explanation": "Believers are free from condemnation. KJV: \"There is therefore now no condemnation to them which are in Christ Jesus.\" (Romans 8:1)"
+  },
+  {
+    "id": 10,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "In Ephesians 1:7, what do believers receive through Christ’s blood?",
+    "choices": [
+      "A. Temporary blessings",
+      "B. Redemption and forgiveness of sins",
+      "C. Earthly success only",
+      "D. Religious status"
+    ],
+    "answer": "B",
+    "explanation": "Redemption comes through Christ’s sacrifice. KJV: \"In whom we have redemption through his blood, the forgiveness of sins.\" (Ephesians 1:7)"
+  },
+  {
+    "id": 11,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to Titus 3:5, how does God save us?",
+    "choices": [
+      "A. By works of righteousness",
+      "B. By strict law keeping",
+      "C. According to His mercy through regeneration",
+      "D. By human discipline"
+    ],
+    "answer": "C",
+    "explanation": "Salvation is based on God's mercy, not works. KJV: \"Not by works of righteousness which we have done, but according to his mercy he saved us.\" (Titus 3:5)"
+  },
+  {
+    "id": 12,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "In Romans 6:23, what is the gift of God?",
+    "choices": [
+      "A. Wealth",
+      "B. Eternal life in Christ",
+      "C. Long life",
+      "D. Wisdom"
+    ],
+    "answer": "B",
+    "explanation": "Eternal life is a gift through Christ. KJV: \"For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.\" (Romans 6:23)"
+  },
+  {
+    "id": 13,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to 1 John 1:7, what does the blood of Jesus do?",
+    "choices": [
+      "A. Makes us wealthy",
+      "B. Gives us power",
+      "C. Cleanses us from all sin",
+      "D. Removes challenges"
+    ],
+    "answer": "C",
+    "explanation": "The blood of Jesus cleanses believers. KJV: \"The blood of Jesus Christ his Son cleanseth us from all sin.\" (1 John 1:7)"
+  },
+  {
+    "id": 14,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to Hebrews 9:22, what is necessary for forgiveness?",
+    "choices": [
+      "A. Prayer",
+      "B. Fasting",
+      "C. Good deeds",
+      "D. Shedding of blood"
+    ],
+    "answer": "D",
+    "explanation": "Forgiveness requires sacrifice. KJV: \"Without shedding of blood is no remission.\" (Hebrews 9:22)"
+  },
+  {
+    "id": 15,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "In 2 Corinthians 5:21, what exchange took place through Christ?",
+    "choices": [
+      "A. Wealth for poverty",
+      "B. Strength for weakness",
+      "C. Sin for righteousness",
+      "D. Knowledge for ignorance"
+    ],
+    "answer": "C",
+    "explanation": "Christ took our sin so we receive righteousness. KJV: \"For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.\" (2 Corinthians 5:21)"
+  },
+  {
+    "id": 16,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to Acts 4:12, where is salvation found?",
+    "choices": [
+      "A. In human effort",
+      "B. In religious traditions",
+      "C. In no other name but Jesus Christ",
+      "D. In good works"
+    ],
+    "answer": "C",
+    "explanation": "Salvation is exclusively through Christ. KJV: \"Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.\" (Acts 4:12)"
+  },
+  {
+    "id": 17,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to Romans 10:13, who will be saved?",
+    "choices": [
+      "A. Only the righteous",
+      "B. Whoever calls on the name of the Lord",
+      "C. Only church leaders",
+      "D. Only Israelites"
+    ],
+    "answer": "B",
+    "explanation": "Salvation is available to all who call on the Lord. KJV: \"For whosoever shall call upon the name of the Lord shall be saved.\" (Romans 10:13)"
+  },
+  {
+    "id": 18,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "In John 1:12, what is given to those who receive Christ?",
+    "choices": [
+      "A. Wealth",
+      "B. Authority to become children of God",
+      "C. Power over others",
+      "D. Immediate success"
+    ],
+    "answer": "B",
+    "explanation": "Believers receive a new identity. KJV: \"But as many as received him, to them gave he power to become the sons of God.\" (John 1:12)"
+  },
+  {
+    "id": 19,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to Ephesians 1:13, what happens after believing in Christ?",
+    "choices": [
+      "A. You become perfect",
+      "B. You receive earthly riches",
+      "C. You are sealed with the Holy Spirit",
+      "D. You stop facing trials"
+    ],
+    "answer": "C",
+    "explanation": "Believers are sealed by the Spirit. KJV: \"After that ye believed, ye were sealed with that holy Spirit of promise.\" (Ephesians 1:13)"
+  },
+  {
+    "id": 20,
+    "category": "Spiritual",
+    "difficulty": "easy",
+    "question": "According to 1 Timothy 2:5, who is the mediator between God and men?",
+    "choices": [
+      "A. Angels",
+      "B. Prophets",
+      "C. Priests",
+      "D. Jesus Christ"
+    ],
+    "answer": "D",
+    "explanation": "Christ alone mediates salvation. KJV: \"For there is one God, and one mediator between God and men, the man Christ Jesus.\" (1 Timothy 2:5)"
+  },
+  {
+    "id": 36,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 4:5, how is righteousness credited to a person?",
+    "choices": [
+      "A. By works of the law",
+      "B. By faith in Him who justifies the ungodly",
+      "C. By religious rituals",
+      "D. By moral discipline"
+    ],
+    "answer": "B",
+    "explanation": "Righteousness is imputed by faith, not works. KJV: \"But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness.\" (Romans 4:5)"
+  },
+  {
+    "id": 37,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Galatians 2:16, why is a person not justified by the works of the law?",
+    "choices": [
+      "A. Because the law is evil",
+      "B. Because works are unnecessary",
+      "C. Because justification comes through faith in Jesus Christ",
+      "D. Because the law was abolished before Christ"
+    ],
+    "answer": "C",
+    "explanation": "Justification is through faith, not law. KJV: \"Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ.\" (Galatians 2:16)"
+  },
+  {
+    "id": 38,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Hebrews 10:10, how are believers sanctified?",
+    "choices": [
+      "A. By repeated sacrifices",
+      "B. By personal holiness efforts",
+      "C. By the offering of Jesus Christ once for all",
+      "D. By fasting and prayer"
+    ],
+    "answer": "C",
+    "explanation": "Sanctification is through Christ’s sacrifice. KJV: \"We are sanctified through the offering of the body of Jesus Christ once for all.\" (Hebrews 10:10)"
+  },
+  {
+    "id": 39,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to 2 Corinthians 5:18-19, what ministry has been given to believers?",
+    "choices": [
+      "A. Ministry of wealth",
+      "B. Ministry of judgment",
+      "C. Ministry of reconciliation",
+      "D. Ministry of law enforcement"
+    ],
+    "answer": "C",
+    "explanation": "Believers share the message of reconciliation. KJV: \"God... hath given to us the ministry of reconciliation.\" (2 Corinthians 5:18)"
+  },
+  {
+    "id": 40,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 8:2, what has made believers free?",
+    "choices": [
+      "A. The law of Moses",
+      "B. The law of the Spirit of life in Christ Jesus",
+      "C. Human effort",
+      "D. Religious traditions"
+    ],
+    "answer": "B",
+    "explanation": "Freedom comes through the Spirit. KJV: \"The law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.\" (Romans 8:2)"
+  },
+
+  {
+    "id": 41,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Colossians 1:21-22, how are believers presented before God?",
+    "choices": [
+      "A. Guilty and condemned",
+      "B. Holy, blameless, and unreprovable",
+      "C. Weak and imperfect",
+      "D. Under judgment"
+    ],
+    "answer": "B",
+    "explanation": "Christ reconciles believers fully. KJV: \"To present you holy and unblameable and unreproveable in his sight.\" (Colossians 1:22)"
+  },
+  {
+    "id": 42,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Ephesians 2:13, what has brought believers near to God?",
+    "choices": [
+      "A. Good works",
+      "B. Church attendance",
+      "C. The blood of Christ",
+      "D. Religious rituals"
+    ],
+    "answer": "C",
+    "explanation": "Access to God is through Christ. KJV: \"Ye who sometimes were far off are made nigh by the blood of Christ.\" (Ephesians 2:13)"
+  },
+  {
+    "id": 43,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 5:9, what are believers saved from?",
+    "choices": [
+      "A. Poverty",
+      "B. Sickness",
+      "C. Wrath through Christ",
+      "D. Human suffering"
+    ],
+    "answer": "C",
+    "explanation": "Christ saves from judgment. KJV: \"Being now justified by his blood, we shall be saved from wrath through him.\" (Romans 5:9)"
+  },
+  {
+    "id": 44,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Galatians 3:26, how do people become children of God?",
+    "choices": [
+      "A. By works",
+      "B. By law",
+      "C. By faith in Christ Jesus",
+      "D. By tradition"
+    ],
+    "answer": "C",
+    "explanation": "Faith defines sonship. KJV: \"For ye are all the children of God by faith in Christ Jesus.\" (Galatians 3:26)"
+  },
+  {
+    "id": 45,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Hebrews 9:12, how did Christ obtain eternal redemption?",
+    "choices": [
+      "A. By animal sacrifices",
+      "B. By His own blood",
+      "C. By law keeping",
+      "D. By priesthood lineage"
+    ],
+    "answer": "B",
+    "explanation": "Christ’s sacrifice is final. KJV: \"By his own blood he entered in once... having obtained eternal redemption.\" (Hebrews 9:12)"
+  },
+
+  {
+    "id": 46,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Philippians 3:9, righteousness comes through:",
+    "choices": [
+      "A. The law",
+      "B. Human effort",
+      "C. Faith in Christ",
+      "D. Religious duty"
+    ],
+    "answer": "C",
+    "explanation": "True righteousness is through Christ. KJV: \"The righteousness which is of God by faith.\" (Philippians 3:9)"
+  },
+  {
+    "id": 47,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 6:14, believers are under:",
+    "choices": [
+      "A. The law",
+      "B. Judgment",
+      "C. Grace",
+      "D. Condemnation"
+    ],
+    "answer": "C",
+    "explanation": "Grace governs the believer. KJV: \"Ye are not under the law, but under grace.\" (Romans 6:14)"
+  },
+  {
+    "id": 48,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Colossians 2:10, believers are:",
+    "choices": [
+      "A. Incomplete",
+      "B. Perfected in Christ",
+      "C. Still lacking",
+      "D. Under judgment"
+    ],
+    "answer": "B",
+    "explanation": "Christ completes the believer. KJV: \"Ye are complete in him.\" (Colossians 2:10)"
+  },
+  {
+    "id": 49,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to 1 Corinthians 1:30, Christ is made unto us:",
+    "choices": [
+      "A. Wealth only",
+      "B. Wisdom, righteousness, sanctification, and redemption",
+      "C. Judgment",
+      "D. Law"
+    ],
+    "answer": "B",
+    "explanation": "Christ is our total provision. KJV: \"Who of God is made unto us wisdom, and righteousness, and sanctification, and redemption.\" (1 Corinthians 1:30)"
+  },
+  {
+    "id": 50,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Ephesians 1:3, believers are blessed with:",
+    "choices": [
+      "A. Earthly riches",
+      "B. Physical strength",
+      "C. Spiritual blessings in heavenly places",
+      "D. Political power"
+    ],
+    "answer": "C",
+    "explanation": "Blessings are spiritual in Christ. KJV: \"Blessed us with all spiritual blessings in heavenly places in Christ.\" (Ephesians 1:3)"
+  },
+
+  {
+    "id": 51,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 8:30, what sequence describes God's work in salvation?",
+    "choices": [
+      "A. Called, justified, glorified, predestined",
+      "B. Predestined, called, justified, glorified",
+      "C. Justified, called, glorified, predestined",
+      "D. Glorified, justified, called, predestined"
+    ],
+    "answer": "B",
+    "explanation": "God’s redemptive plan follows a divine order. KJV: \"Whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.\" (Romans 8:30)"
+  },
+  {
+    "id": 52,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Hebrews 4:16, how should believers approach God?",
+    "choices": [
+      "A. With fear and hesitation",
+      "B. With boldness to obtain mercy and grace",
+      "C. Through priests only",
+      "D. With offerings first"
+    ],
+    "answer": "B",
+    "explanation": "Christ gives direct access to God. KJV: \"Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.\" (Hebrews 4:16)"
+  },
+  {
+    "id": 53,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 8:11, what does the Spirit do for believers?",
+    "choices": [
+      "A. Gives wealth",
+      "B. Makes them rulers",
+      "C. Quickens their mortal bodies",
+      "D. Removes all struggles"
+    ],
+    "answer": "C",
+    "explanation": "The Spirit gives life. KJV: \"He that raised up Christ... shall also quicken your mortal bodies.\" (Romans 8:11)"
+  },
+  {
+    "id": 54,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Colossians 1:27, what is the mystery revealed to believers?",
+    "choices": [
+      "A. Wealth and prosperity",
+      "B. Christ in you, the hope of glory",
+      "C. Power over nations",
+      "D. Hidden laws"
+    ],
+    "answer": "B",
+    "explanation": "Christ lives in believers. KJV: \"Christ in you, the hope of glory.\" (Colossians 1:27)"
+  },
+  {
+    "id": 55,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to 2 Timothy 1:9, how were believers called?",
+    "choices": [
+      "A. According to works",
+      "B. According to grace given in Christ before time",
+      "C. According to effort",
+      "D. According to law"
+    ],
+    "answer": "B",
+    "explanation": "Calling is based on grace. KJV: \"Who hath saved us... according to his own purpose and grace, which was given us in Christ Jesus before the world began.\" (2 Timothy 1:9)"
+  },
+  {
+    "id": 56,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 5:17, believers reign in life through:",
+    "choices": [
+      "A. Their strength",
+      "B. Abundance of grace and the gift of righteousness",
+      "C. Law keeping",
+      "D. Wealth"
+    ],
+    "answer": "B",
+    "explanation": "Grace empowers believers. KJV: \"They which receive abundance of grace... shall reign in life by one, Jesus Christ.\" (Romans 5:17)"
+  },
+  {
+    "id": 57,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Ephesians 4:32, why should believers forgive others?",
+    "choices": [
+      "A. To gain favor",
+      "B. Because God forgave them in Christ",
+      "C. To avoid punishment",
+      "D. To appear righteous"
+    ],
+    "answer": "B",
+    "explanation": "Forgiveness flows from grace. KJV: \"Even as God for Christ's sake hath forgiven you.\" (Ephesians 4:32)"
+  },
+  {
+    "id": 58,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Hebrews 7:25, what is Christ able to do?",
+    "choices": [
+      "A. Judge only",
+      "B. Save completely those who come to God through Him",
+      "C. Teach only",
+      "D. Lead nations"
+    ],
+    "answer": "B",
+    "explanation": "Christ saves fully and continually. KJV: \"Able also to save them to the uttermost that come unto God by him.\" (Hebrews 7:25)"
+  },
+  {
+    "id": 59,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 8:15, believers have received:",
+    "choices": [
+      "A. Spirit of fear",
+      "B. Spirit of bondage",
+      "C. Spirit of adoption",
+      "D. Spirit of law"
+    ],
+    "answer": "C",
+    "explanation": "Believers are adopted into God’s family. KJV: \"Ye have received the Spirit of adoption, whereby we cry, Abba, Father.\" (Romans 8:15)"
+  },
+  {
+    "id": 60,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Galatians 4:7, believers are:",
+    "choices": [
+      "A. Servants only",
+      "B. Slaves of law",
+      "C. Sons and heirs through Christ",
+      "D. Under judgment"
+    ],
+    "answer": "C",
+    "explanation": "Believers inherit through Christ. KJV: \"Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.\" (Galatians 4:7)"
+  },
+
+  {
+    "id": 61,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 8:33, who can bring a charge against God's elect?",
+    "choices": [
+      "A. Satan",
+      "B. The law",
+      "C. No one, because God justifies",
+      "D. Angels"
+    ],
+    "answer": "C",
+    "explanation": "Justification is God's act, so no accusation stands. KJV: \"Who shall lay any thing to the charge of God's elect? It is God that justifieth.\" (Romans 8:33)"
+  },
+  {
+    "id": 62,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to 1 Corinthians 6:11, what have believers been through Christ?",
+    "choices": [
+      "A. Judged only",
+      "B. Washed, sanctified, and justified",
+      "C. Tested only",
+      "D. Perfected instantly"
+    ],
+    "answer": "B",
+    "explanation": "Salvation involves cleansing and justification. KJV: \"But ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus.\" (1 Corinthians 6:11)"
+  },
+  {
+    "id": 63,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Ephesians 1:5, believers are predestined unto:",
+    "choices": [
+      "A. Judgment",
+      "B. Adoption as children by Jesus Christ",
+      "C. Law keeping",
+      "D. Religious service"
+    ],
+    "answer": "B",
+    "explanation": "God's plan is adoption through Christ. KJV: \"Having predestinated us unto the adoption of children by Jesus Christ to himself.\" (Ephesians 1:5)"
+  },
+  {
+    "id": 64,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Hebrews 10:17, what does God say about believers' sins?",
+    "choices": [
+      "A. He remembers them always",
+      "B. He judges them daily",
+      "C. He forgets them temporarily",
+      "D. He remembers them no more"
+    ],
+    "answer": "D",
+    "explanation": "Forgiveness is complete under the New Covenant. KJV: \"Their sins and iniquities will I remember no more.\" (Hebrews 10:17)"
+  },
+  {
+    "id": 65,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 5:2, believers have access into grace through:",
+    "choices": [
+      "A. Works",
+      "B. Faith in Christ",
+      "C. Law keeping",
+      "D. Religious rituals"
+    ],
+    "answer": "B",
+    "explanation": "Faith grants access into grace. KJV: \"By whom also we have access by faith into this grace wherein we stand.\" (Romans 5:2)"
+  },
+  {
+    "id": 66,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Colossians 1:14, what do believers have in Christ?",
+    "choices": [
+      "A. Wealth",
+      "B. Authority",
+      "C. Redemption through His blood",
+      "D. Power over nations"
+    ],
+    "answer": "C",
+    "explanation": "Redemption is through Christ’s sacrifice. KJV: \"In whom we have redemption through his blood, even the forgiveness of sins.\" (Colossians 1:14)"
+  },
+  {
+    "id": 67,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to 2 Corinthians 1:22, what has God given believers as a guarantee?",
+    "choices": [
+      "A. Wealth",
+      "B. The Spirit in their hearts",
+      "C. Power",
+      "D. Knowledge"
+    ],
+    "answer": "B",
+    "explanation": "The Spirit is a seal and guarantee. KJV: \"Who hath also sealed us, and given the earnest of the Spirit in our hearts.\" (2 Corinthians 1:22)"
+  },
+  {
+    "id": 68,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Galatians 5:1, believers should stand fast in:",
+    "choices": [
+      "A. The law",
+      "B. Traditions",
+      "C. The liberty where Christ has made them free",
+      "D. Religious rules"
+    ],
+    "answer": "C",
+    "explanation": "Christ brings freedom from bondage. KJV: \"Stand fast therefore in the liberty wherewith Christ hath made us free.\" (Galatians 5:1)"
+  },
+  {
+    "id": 69,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Romans 8:17, believers are heirs with Christ if:",
+    "choices": [
+      "A. They work hard",
+      "B. They keep the law",
+      "C. They suffer with Him",
+      "D. They pray daily"
+    ],
+    "answer": "C",
+    "explanation": "Suffering identifies believers with Christ. KJV: \"If so be that we suffer with him, that we may be also glorified together.\" (Romans 8:17)"
+  },
+  {
+    "id": 70,
+    "category": "Spiritual",
+    "difficulty": "medium",
+    "question": "According to Hebrews 10:19, believers have boldness to enter the holiest by:",
+    "choices": [
+      "A. Good works",
+      "B. The blood of Jesus",
+      "C. Religious rituals",
+      "D. Priestly mediation"
+    ],
+    "answer": "B",
+    "explanation": "Access to God is through Christ’s blood. KJV: \"Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus.\" (Hebrews 10:19)"
+  },
+
+  {
+    "id": 71,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Romans 3:26, how does God remain just while justifying sinners?",
+    "choices": [
+      "A. By ignoring sin",
+      "B. Through the sacrifice of Christ satisfying justice",
+      "C. By lowering His standards",
+      "D. By delaying judgment"
+    ],
+    "answer": "B",
+    "explanation": "Justice is fulfilled in Christ. KJV: \"That he might be just, and the justifier of him which believeth in Jesus.\" (Romans 3:26)"
+  },
+  {
+    "id": 72,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Hebrews 8:12, what defines the New Covenant?",
+    "choices": [
+      "A. Strict law enforcement",
+      "B. Repeated sacrifices",
+      "C. Complete forgiveness and no remembrance of sins",
+      "D. Temple rituals"
+    ],
+    "answer": "C",
+    "explanation": "The New Covenant emphasizes forgiveness. KJV: \"Their sins and their iniquities will I remember no more.\" (Hebrews 8:12)"
+  },
+  {
+    "id": 73,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Colossians 2:12, believers are raised with Christ through:",
+    "choices": [
+      "A. Works",
+      "B. Faith in God's power",
+      "C. Rituals",
+      "D. Law"
+    ],
+    "answer": "B",
+    "explanation": "Faith connects believers to resurrection life. KJV: \"Ye are risen with him through the faith of the operation of God.\" (Colossians 2:12)"
+  },
+  {
+    "id": 74,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Romans 6:6, what was crucified with Christ?",
+    "choices": [
+      "A. The body only",
+      "B. The old man",
+      "C. The spirit",
+      "D. The law"
+    ],
+    "answer": "B",
+    "explanation": "Old identity was crucified. KJV: \"Knowing this, that our old man is crucified with him.\" (Romans 6:6)"
+  },
+  {
+    "id": 75,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to 2 Corinthians 3:6, what does the Spirit do?",
+    "choices": [
+      "A. Condemns",
+      "B. Teaches law",
+      "C. Gives life",
+      "D. Judges"
+    ],
+    "answer": "C",
+    "explanation": "The Spirit brings life. KJV: \"The letter killeth, but the spirit giveth life.\" (2 Corinthians 3:6)"
+  },
+  {
+    "id": 76,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Hebrews 12:2, Jesus is the author and finisher of:",
+    "choices": [
+      "A. The law",
+      "B. Our faith",
+      "C. Creation",
+      "D. Judgment"
+    ],
+    "answer": "B",
+    "explanation": "Faith begins and ends in Christ. KJV: \"Looking unto Jesus the author and finisher of our faith.\" (Hebrews 12:2)"
+  },
+  {
+    "id": 77,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Romans 11:6, grace is:",
+    "choices": [
+      "A. Based on works",
+      "B. Opposed to works",
+      "C. Dependent on effort",
+      "D. Temporary"
+    ],
+    "answer": "B",
+    "explanation": "Grace and works cannot mix. KJV: \"If by grace, then is it no more of works.\" (Romans 11:6)"
+  },
+  {
+    "id": 78,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Ephesians 1:11, believers obtain inheritance through:",
+    "choices": [
+      "A. Works",
+      "B. Predestination according to God's purpose",
+      "C. Law",
+      "D. Effort"
+    ],
+    "answer": "B",
+    "explanation": "Inheritance is God's plan. KJV: \"Being predestinated according to the purpose of him.\" (Ephesians 1:11)"
+  },
+    {
+      "id": 79,
+      "category": "Spiritual",
+      "difficulty": "hard",
+      "question": "According to Romans 5:1, what is the result of being justified by faith?",
+      "choices": [
+        "A. Increased religious obligation",
+        "B. Peace with God through Jesus Christ",
+        "C. Freedom from all suffering",
+        "D. Immediate prosperity"
+      ],
+      "answer": "B",
+      "explanation": "Justification by faith results in peace with God. KJV: \"Therefore being justified by faith, we have peace with God through our Lord Jesus Christ.\" (Romans 5:1). This reflects Pauline doctrine of reconciliation through grace, not works."
+    },
+    {
+      "id": 80,
+      "category": "Spiritual",
+      "difficulty": "hard",
+      "question": "In Pauline theology, what does 'new creation' in Christ mean?",
+      "choices": [
+        "A. A physical transformation of the body immediately",
+        "B. A ceremonial religious change",
+        "C. Spiritual regeneration and identity in Christ",
+        "D. Adoption of Jewish customs"
+      ],
+      "answer": "C",
+      "explanation": "KJV: \"If any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.\" (2 Corinthians 5:17). Paul teaches a complete spiritual rebirth and identity transformation in Christ."
+    },
+    {
+      "id": 81,
+      "category": "Spiritual",
+      "difficulty": "hard",
+      "question": "According to Ephesians 2:8-9, salvation is obtained by:",
+      "choices": [
+        "A. Faith plus works",
+        "B. Works of the law",
+        "C. Grace through faith, not works",
+        "D. Religious rituals"
+      ],
+      "answer": "C",
+      "explanation": "KJV: \"For by grace are ye saved through faith... not of works, lest any man should boast.\" (Ephesians 2:8-9). Paul emphasizes salvation as entirely by grace through faith, excluding human merit."
+    },
+    {
+      "id": 82,
+      "category": "Spiritual",
+      "difficulty": "hard",
+      "question": "What does Romans 8:1 teach about believers in Christ?",
+      "choices": [
+        "A. They are under constant condemnation",
+        "B. They are free from condemnation in Christ",
+        "C. They must still obey the Law to be saved",
+        "D. They lose salvation if they sin"
+      ],
+      "answer": "B",
+      "explanation": "KJV: \"There is therefore now no condemnation to them which are in Christ Jesus.\" (Romans 8:1). Paul teaches complete legal freedom from condemnation through union with Christ."
+    },
+    {
+      "id": 83,
+      "category": "Spiritual",
+      "difficulty": "hard",
+      "question": "In Galatians 2:16, Paul emphasizes that a person is justified by:",
+      "choices": [
+        "A. Works of the Law",
+        "B. Faith in Christ",
+        "C. Religious observance",
+        "D. Animal sacrifices"
+      ],
+      "answer": "B",
+      "explanation": "KJV: \"A man is not justified by the works of the law, but by the faith of Jesus Christ.\" (Galatians 2:16). This highlights justification by faith alone in Christ’s finished work."
+    },
+    {
+      "id": 84,
+      "category": "Spiritual",
+      "difficulty": "hard",
+      "question": "According to Colossians 2:14, what did Christ do with the 'handwriting of ordinances'?",
+      "choices": [
+        "A. Strengthened it",
+        "B. Rewrote it",
+        "C. Blotted it out and nailed it to the cross",
+        "D. Transferred it to believers"
+      ],
+      "answer": "C",
+      "explanation": "KJV: \"Blotting out the handwriting of ordinances... nailing it to his cross.\" (Colossians 2:14). Paul teaches Christ fulfilled and removed legal condemnation through the cross."
+    },
+    {
+      "id": 85,
+      "category": "Spiritual",
+      "difficulty": "hard",
+      "question": "What does Romans 6:14 teach about believers under grace?",
+      "choices": [
+        "A. Sin has dominion over them",
+        "B. They are under the Law",
+        "C. Sin shall not have dominion over you",
+        "D. They must still earn righteousness"
+      ],
+      "answer": "C",
+      "explanation": "KJV: \"For sin shall not have dominion over you: for ye are not under the law, but under grace.\" (Romans 6:14). Paul emphasizes victorious living through grace, not law-keeping."
+    },
+  {
+    "id": 86,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to 2 Corinthians 5:21, what is exchanged through Christ’s sacrifice?",
+    "choices": [
+      "A. Sin for punishment only",
+      "B. Righteousness for earthly wealth",
+      "C. Christ’s righteousness for our sin",
+      "D. Law for tradition"
+    ],
+    "answer": "C",
+    "explanation": "KJV: \"For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.\" (2 Corinthians 5:21). This teaches imputed righteousness—Christ takes our sin, and believers receive His righteousness."
+  },
+  {
+    "id": 87,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "In Romans 8:38-39, what does Paul affirm about God's love?",
+    "choices": [
+      "A. It can be lost through sin",
+      "B. It is dependent on human effort",
+      "C. Nothing can separate believers from it",
+      "D. It applies only to Israel"
+    ],
+    "answer": "C",
+    "explanation": "KJV: \"Nothing shall be able to separate us from the love of God, which is in Christ Jesus our Lord.\" Paul emphasizes the permanence of God’s covenant love in Christ."
+  },
+  {
+    "id": 88,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Ephesians 1:13, believers are sealed with:",
+    "choices": [
+      "A. The Law",
+      "B. The Holy Spirit of promise",
+      "C. Water baptism",
+      "D. Good works"
+    ],
+    "answer": "B",
+    "explanation": "KJV: \"Ye were sealed with that holy Spirit of promise.\" (Ephesians 1:13). Paul teaches the Holy Spirit as God’s seal guaranteeing salvation and inheritance."
+  },
+  {
+    "id": 89,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "What does Romans 3:24 teach about justification?",
+    "choices": [
+      "A. It is earned through obedience",
+      "B. It is by grace through redemption in Christ",
+      "C. It is achieved through sacrifices",
+      "D. It is inherited biologically"
+    ],
+    "answer": "B",
+    "explanation": "KJV: \"Being justified freely by his grace through the redemption that is in Christ Jesus.\" Paul emphasizes free justification through grace, not works."
+  },
+  {
+    "id": 90,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "In Galatians 5:1, what has Christ done for believers?",
+    "choices": [
+      "A. Bound them to the Law",
+      "B. Given them ceremonial duties",
+      "C. Made them free from the yoke of bondage",
+      "D. Increased religious rules"
+    ],
+    "answer": "C",
+    "explanation": "KJV: \"Stand fast therefore in the liberty wherewith Christ hath made us free.\" Paul teaches freedom from legal bondage under the Law."
+  },
+  {
+    "id": 91,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Colossians 1:27, what is the mystery revealed to believers?",
+    "choices": [
+      "A. Israel's political restoration",
+      "B. Christ in you, the hope of glory",
+      "C. The rebuilding of the temple",
+      "D. The return of Moses"
+    ],
+    "answer": "B",
+    "explanation": "KJV: \"Christ in you, the hope of glory.\" Paul reveals indwelling Christ as the foundation of Christian hope and identity."
+  },
+  {
+    "id": 92,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "What does Hebrews 10:14 say about Christ’s sacrifice?",
+    "choices": [
+      "A. It must be repeated yearly",
+      "B. It perfected believers forever",
+      "C. It was incomplete",
+      "D. It only covered sins temporarily"
+    ],
+    "answer": "B",
+    "explanation": "KJV: \"For by one offering he hath perfected for ever them that are sanctified.\" Christ’s sacrifice is complete and eternal."
+  },
+  {
+    "id": 93,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Romans 5:19, believers are made righteous by:",
+    "choices": [
+      "A. Adam’s obedience",
+      "B. Their own works",
+      "C. Christ’s obedience",
+      "D. The Law"
+    ],
+    "answer": "C",
+    "explanation": "KJV: \"By the obedience of one shall many be made righteous.\" (Romans 5:19). Paul contrasts Adam’s fall with Christ’s obedience bringing righteousness."
+  },
+  {
+    "id": 94,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "In 1 Corinthians 1:30, Christ is described as:",
+    "choices": [
+      "A. A teacher only",
+      "B. Wisdom, righteousness, sanctification, and redemption",
+      "C. A prophet of the Law",
+      "D. A moral example only"
+    ],
+    "answer": "B",
+    "explanation": "KJV: \"But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption.\" Christ is the believer’s complete salvation."
+  },
+  {
+    "id": 95,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "What does Romans 8:30 describe as the order of salvation?",
+    "choices": [
+      "A. Faith, works, baptism, glory",
+      "B. Called, justified, glorified",
+      "C. Law, grace, judgment",
+      "D. Repentance, law, reward"
+    ],
+    "answer": "B",
+    "explanation": "KJV: \"Whom he called, them he also justified: and whom he justified, them he also glorified.\" Paul outlines God's sovereign salvation plan."
+  },
+  {
+    "id": 96,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Ephesians 2:13, believers are brought near by:",
+    "choices": [
+      "A. The Law",
+      "B. Church membership",
+      "C. The blood of Christ",
+      "D. Good deeds"
+    ],
+    "answer": "C",
+    "explanation": "KJV: \"Ye who sometimes were far off are made nigh by the blood of Christ.\" Reconciliation is achieved through Christ’s sacrifice."
+  },
+  {
+    "id": 97,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "What does Titus 3:5 teach about salvation?",
+    "choices": [
+      "A. It is by works of righteousness",
+      "B. It is by mercy and regeneration of the Spirit",
+      "C. It is by Law obedience",
+      "D. It is by sacrifices"
+    ],
+    "answer": "B",
+    "explanation": "KJV: \"Not by works of righteousness which we have done, but according to his mercy he saved us.\" Salvation is by mercy and spiritual regeneration."
+  },
+  {
+    "id": 98,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Philippians 3:9, righteousness is found through:",
+    "choices": [
+      "A. Law keeping",
+      "B. Self-effort",
+      "C. Faith in Christ",
+      "D. Ancestry"
+    ],
+    "answer": "C",
+    "explanation": "KJV: \"Not having mine own righteousness, which is of the law, but that which is through the faith of Christ.\" Paul rejects self-righteousness."
+  },
+  {
+    "id": 99,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "What does Romans 6:6 teach about the old man?",
+    "choices": [
+      "A. It must be improved",
+      "B. It is crucified with Christ",
+      "C. It becomes stronger over time",
+      "D. It is never addressed in Scripture"
+    ],
+    "answer": "B",
+    "explanation": "KJV: \"Our old man is crucified with him.\" Paul teaches the believer’s old sinful nature was judged in Christ."
+  },
+  {
+    "id": 100,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "In John 19:30, what did Jesus declare on the cross?",
+    "choices": [
+      "A. It is beginning",
+      "B. It is incomplete",
+      "C. It is finished",
+      "D. It will continue"
+    ],
+    "answer": "C",
+    "explanation": "KJV: \"It is finished.\" This declares the completion of redemption—Christ fully accomplished salvation."
+  },
+  {
+    "id": 101,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Romans 4:5, faith is credited as:",
+    "choices": [
+      "A. Payment",
+      "B. Righteousness",
+      "C. Law obedience",
+      "D. Religious duty"
+    ],
+    "answer": "B",
+    "explanation": "KJV: \"His faith is counted for righteousness.\" Paul teaches justification through faith apart from works."
+  },
+  {
+    "id": 102,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "What does Galatians 3:13 teach about Christ?",
+    "choices": [
+      "A. He increased the Law",
+      "B. He became a curse for us",
+      "C. He removed grace",
+      "D. He rejected sinners"
+    ],
+    "answer": "B",
+    "explanation": "KJV: \"Christ hath redeemed us from the curse of the law, being made a curse for us.\" Christ bore the curse of sin for redemption."
+  },
+  {
+    "id": 103,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to Ephesians 2:6, believers are spiritually:",
+    "choices": [
+      "A. Still under judgment",
+      "B. Seated in heavenly places in Christ",
+      "C. Wandering spiritually",
+      "D. Waiting for acceptance"
+    ],
+    "answer": "B",
+    "explanation": "KJV: \"Hath raised us up together, and made us sit together in heavenly places in Christ Jesus.\" Believers share Christ’s exalted position."
+  },
+  {
+    "id": 104,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "What does Hebrews 9:12 teach about Christ’s blood?",
+    "choices": [
+      "A. It was symbolic only",
+      "B. It obtained eternal redemption",
+      "C. It required repetition",
+      "D. It replaced the Law"
+    ],
+    "answer": "B",
+    "explanation": "KJV: \"By his own blood he entered in once into the holy place, having obtained eternal redemption.\" Christ’s sacrifice is final and eternal."
+  },
+  {
+    "id": 105,
+    "category": "Spiritual",
+    "difficulty": "hard",
+    "question": "According to 1 John 5:11-12, eternal life is found in:",
+    "choices": [
+      "A. Good works",
+      "B. Church rituals",
+      "C. The Son of God",
+      "D. The Law"
+    ],
+    "answer": "C",
+    "explanation": "KJV: \"He that hath the Son hath life; and he that hath not the Son of God hath not life.\" Eternal life is exclusively in Christ."
+  },
+
+
+  {
+    "id": 106,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is the main goal of a business?",
+    "choices": [
+      "A. To increase expenses",
+      "B. To make profit by serving customers",
+      "C. To avoid customers",
+      "D. To reduce production"
+    ],
+    "answer": "B",
+    "explanation": "The primary goal of any business is to earn profit by offering goods or services that satisfy customer needs."
+  },
+  {
+    "id": 107,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What does a customer buy in exchange for money?",
+    "choices": [
+      "A. Services or goods",
+      "B. Debt",
+      "C. Loss",
+      "D. Taxes"
+    ],
+    "answer": "A",
+    "explanation": "Customers exchange money for goods or services that satisfy their needs or wants."
+  },
+  {
+    "id": 108,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "easy",
+    "question": "Which of the following is a business expense?",
+    "choices": [
+      "A. Profit",
+      "B. Rent",
+      "C. Income",
+      "D. Sales revenue"
+    ],
+    "answer": "B",
+    "explanation": "Rent is a regular cost paid for using business premises and is considered an expense."
+  },
+  {
+    "id": 109,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is selling?",
+    "choices": [
+      "A. Buying goods only",
+      "B. Exchanging goods/services for money",
+      "C. Destroying goods",
+      "D. Storing products"
+    ],
+    "answer": "B",
+    "explanation": "Selling is the process of exchanging goods or services for money."
+  },
+  {
+    "id": 110,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is inventory?",
+    "choices": [
+      "A. List of goods in stock",
+      "B. Customer complaints",
+      "C. Business debts",
+      "D. Advertising cost"
+    ],
+    "answer": "A",
+    "explanation": "Inventory refers to all goods and materials a business has in stock for sale or production."
+  },
+  {
+    "id": 111,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is a service business?",
+    "choices": [
+      "A. A business that sells physical goods only",
+      "B. A business that provides intangible services",
+      "C. A government office",
+      "D. A manufacturing plant only"
+    ],
+    "answer": "B",
+    "explanation": "Service businesses provide non-physical products such as transport, banking, or repairs."
+  },
+  {
+    "id": 112,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is customer satisfaction?",
+    "choices": [
+      "A. When customers are unhappy",
+      "B. When customer needs are met",
+      "C. When prices increase",
+      "D. When products are unavailable"
+    ],
+    "answer": "B",
+    "explanation": "Customer satisfaction occurs when a product or service meets or exceeds customer expectations."
+  },
+  {
+    "id": 113,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is a supplier?",
+    "choices": [
+      "A. A person who consumes goods",
+      "B. A person who provides goods/services to businesses",
+      "C. A customer only",
+      "D. A competitor"
+    ],
+    "answer": "B",
+    "explanation": "A supplier provides raw materials or services needed by a business to operate."
+  },
+  {
+    "id": 114,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is production?",
+    "choices": [
+      "A. Selling only",
+      "B. Creating goods or services",
+      "C. Advertising only",
+      "D. Borrowing money"
+    ],
+    "answer": "B",
+    "explanation": "Production is the process of creating goods or services to satisfy consumer needs."
+  },
+  {
+    "id": 115,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is competition in business?",
+    "choices": [
+      "A. Cooperation between companies only",
+      "B. Rivalry among businesses offering similar products",
+      "C. Government control",
+      "D. Business closure"
+    ],
+    "answer": "B",
+    "explanation": "Competition exists when businesses try to attract the same customers in the same market."
+  },
+
+  {
+    "id": 116,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is market demand?",
+    "choices": [
+      "A. Amount of goods suppliers want to produce",
+      "B. Customer willingness and ability to buy goods",
+      "C. Business profit",
+      "D. Government regulation"
+    ],
+    "answer": "B",
+    "explanation": "Demand refers to how much consumers are willing and able to buy at a given price."
+  },
+  {
+    "id": 117,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is price elasticity of demand?",
+    "choices": [
+      "A. Change in demand when price changes",
+      "B. Fixed pricing system",
+      "C. Government tax rate",
+      "D. Advertising method"
+    ],
+    "answer": "A",
+    "explanation": "It measures how sensitive customer demand is when prices change."
+  },
+  {
+    "id": 118,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is outsourcing?",
+    "choices": [
+      "A. Doing all work internally",
+      "B. Hiring external companies to perform tasks",
+      "C. Closing a business",
+      "D. Increasing salaries"
+    ],
+    "answer": "B",
+    "explanation": "Outsourcing is delegating tasks to external specialists to reduce costs or improve efficiency."
+  },
+  {
+    "id": 119,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is entrepreneurship innovation?",
+    "choices": [
+      "A. Copying existing ideas",
+      "B. Creating new ideas or improving existing ones",
+      "C. Ignoring customers",
+      "D. Avoiding risks completely"
+    ],
+    "answer": "B",
+    "explanation": "Innovation involves developing new or improved products, services, or processes."
+  },
+  {
+    "id": 120,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is financial management?",
+    "choices": [
+      "A. Spending without planning",
+      "B. Planning and controlling business finances",
+      "C. Ignoring profit",
+      "D. Only borrowing money"
+    ],
+    "answer": "B",
+    "explanation": "Financial management ensures proper use and control of money in a business."
+  },
+  {
+    "id": 121,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is a target market?",
+    "choices": [
+      "A. All people in the world",
+      "B. Specific group of customers a business aims to serve",
+      "C. Government employees only",
+      "D. Business competitors"
+    ],
+    "answer": "B",
+    "explanation": "A target market is a defined group of customers a business focuses on."
+  },
+  {
+    "id": 122,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is business ethics?",
+    "choices": [
+      "A. Illegal business actions",
+      "B. Moral principles guiding business behavior",
+      "C. Marketing strategy only",
+      "D. Tax system"
+    ],
+    "answer": "B",
+    "explanation": "Business ethics are moral principles that guide fair and honest business conduct."
+  },
+  {
+    "id": 123,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is a partnership business?",
+    "choices": [
+      "A. Owned by one person",
+      "B. Owned by two or more people sharing profits",
+      "C. Owned by government",
+      "D. Owned by customers"
+    ],
+    "answer": "B",
+    "explanation": "A partnership is a business owned and run by two or more individuals sharing profits and responsibilities."
+  },
+  {
+    "id": 124,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is online commerce called?",
+    "choices": [
+      "A. E-commerce",
+      "B. Land trade",
+      "C. Manual trading",
+      "D. Barter system"
+    ],
+    "answer": "A",
+    "explanation": "E-commerce refers to buying and selling goods or services over the internet."
+  },
+  {
+    "id": 125,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is customer retention?",
+    "choices": [
+      "A. Losing customers",
+      "B. Keeping customers loyal to a business",
+      "C. Increasing prices only",
+      "D. Ignoring customers"
+    ],
+    "answer": "B",
+    "explanation": "Customer retention focuses on keeping existing customers satisfied and loyal."
+  },
+  {
+      "id": 136,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "easy",
+      "question": "What is a business logo mainly used for?",
+      "choices": [
+        "A. To confuse customers",
+        "B. To identify and represent a brand",
+        "C. To increase taxes",
+        "D. To replace products"
+      ],
+      "answer": "B",
+      "explanation": "A logo visually represents a business brand and helps customers easily recognize it in the market. It builds identity and trust over time."
+    },
+    {
+      "id": 137,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "easy",
+      "question": "What is revenue in business?",
+      "choices": [
+        "A. Total money earned from sales",
+        "B. Total expenses",
+        "C. Business debt",
+        "D. Employee salary only"
+      ],
+      "answer": "A",
+      "explanation": "Revenue is the total income a business earns from selling goods or services before deducting any costs."
+    },
+    {
+      "id": 138,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "easy",
+      "question": "What is advertising?",
+      "choices": [
+        "A. Buying products",
+        "B. Promoting goods or services to attract customers",
+        "C. Closing a business",
+        "D. Ignoring customers"
+      ],
+      "answer": "B",
+      "explanation": "Advertising is a marketing strategy used to inform and persuade customers to buy products or services."
+    },
+    {
+      "id": 139,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "easy",
+      "question": "What is a business owner called?",
+      "choices": [
+        "A. Entrepreneur",
+        "B. Customer",
+        "C. Employee",
+        "D. Supplier"
+      ],
+      "answer": "A",
+      "explanation": "An entrepreneur is someone who starts, manages, and takes risk in running a business venture."
+    },
+    {
+      "id": 140,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "easy",
+      "question": "What is customer demand?",
+      "choices": [
+        "A. Customers refusing to buy",
+        "B. The desire and ability to buy goods/services",
+        "C. Business profit",
+        "D. Government tax"
+      ],
+      "answer": "B",
+      "explanation": "Demand refers to how much customers want and are able to purchase a product at a given price."
+    },
+
+    {
+      "id": 141,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "medium",
+      "question": "What is cost of production?",
+      "choices": [
+        "A. Money spent to produce goods or services",
+        "B. Money earned from sales",
+        "C. Business profit",
+        "D. Customer payment"
+      ],
+      "answer": "A",
+      "explanation": "Cost of production includes all expenses like labor, materials, and overhead required to produce goods or services."
+    },
+    {
+      "id": 142,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "medium",
+      "question": "What is a monopoly market?",
+      "choices": [
+        "A. Many sellers compete",
+        "B. One seller controls the market",
+        "C. No buyers exist",
+        "D. Government-owned only"
+      ],
+      "answer": "B",
+      "explanation": "A monopoly occurs when a single company dominates the market with no close competitors."
+    },
+    {
+      "id": 143,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "medium",
+      "question": "What is entrepreneurship risk?",
+      "choices": [
+        "A. Guaranteed success",
+        "B. Possibility of loss or failure in business",
+        "C. Free income",
+        "D. Government support only"
+      ],
+      "answer": "B",
+      "explanation": "Entrepreneurs face uncertainty, meaning there is always a chance of financial loss or business failure."
+    },
+    {
+      "id": 144,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "medium",
+      "question": "What is a business strategy?",
+      "choices": [
+        "A. Random decision making",
+        "B. A planned approach to achieve business goals",
+        "C. Ignoring competition",
+        "D. Only advertising"
+      ],
+      "answer": "B",
+      "explanation": "A business strategy is a long-term plan designed to achieve competitive advantage and success."
+    },
+    {
+      "id": 145,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "medium",
+      "question": "What is market research?",
+      "choices": [
+        "A. Guessing customer needs",
+        "B. Collecting and analyzing customer information",
+        "C. Increasing prices",
+        "D. Reducing quality"
+      ],
+      "answer": "B",
+      "explanation": "Market research helps businesses understand customer needs, preferences, and market trends."
+    },
+
+    {
+      "id": 146,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "medium",
+      "question": "What is a franchise?",
+      "choices": [
+        "A. A closed business",
+        "B. A business operating under another brand name",
+        "C. A government office",
+        "D. A loan type"
+      ],
+      "answer": "B",
+      "explanation": "A franchise allows an individual to operate a business using the branding and systems of an established company."
+    },
+    {
+      "id": 147,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "medium",
+      "question": "What is working capital?",
+      "choices": [
+        "A. Long-term loans",
+        "B. Money used for daily business operations",
+        "C. Business logo",
+        "D. Customer feedback"
+      ],
+      "answer": "B",
+      "explanation": "Working capital is the money used to cover day-to-day operations like salaries and supplies."
+    },
+    {
+      "id": 148,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "medium",
+      "question": "What is customer loyalty?",
+      "choices": [
+        "A. Switching brands often",
+        "B. Repeated buying from the same business",
+        "C. Ignoring brands",
+        "D. Complaining only"
+      ],
+      "answer": "B",
+      "explanation": "Customer loyalty occurs when customers repeatedly purchase from the same business due to satisfaction and trust."
+    },
+    {
+      "id": 149,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "medium",
+      "question": "What is pricing strategy?",
+      "choices": [
+        "A. Random price setting",
+        "B. Method used to set product prices",
+        "C. Reducing sales",
+        "D. Ignoring customers"
+      ],
+      "answer": "B",
+      "explanation": "Pricing strategy determines how a business sets prices to attract customers and maximize profit."
+    },
+    {
+      "id": 150,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "medium",
+      "question": "What is digital marketing?",
+      "choices": [
+        "A. Marketing using traditional newspapers only",
+        "B. Marketing using online platforms",
+        "C. Door-to-door selling only",
+        "D. No advertising"
+      ],
+      "answer": "B",
+      "explanation": "Digital marketing uses internet platforms like social media, websites, and emails to promote products."
+    },
+
+    {
+      "id": 151,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "hard",
+      "question": "What is return on investment (ROI)?",
+      "choices": [
+        "A. Total expenses",
+        "B. Profit gained compared to investment cost",
+        "C. Employee salary",
+        "D. Business debt"
+      ],
+      "answer": "B",
+      "explanation": "ROI measures how much profit or loss is generated from an investment compared to its cost."
+    },
+    {
+      "id": 152,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "hard",
+      "question": "What is diversification in business?",
+      "choices": [
+        "A. Selling one product only",
+        "B. Expanding into different products or markets",
+        "C. Closing business units",
+        "D. Reducing income sources"
+      ],
+      "answer": "B",
+      "explanation": "Diversification reduces risk by expanding business operations into new products or markets."
+    },
+    {
+      "id": 153,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "hard",
+      "question": "What is economies of scale?",
+      "choices": [
+        "A. Higher cost per unit when production increases",
+        "B. Lower cost per unit when production increases",
+        "C. Fixed pricing system",
+        "D. Business shutdown"
+      ],
+      "answer": "B",
+      "explanation": "Economies of scale occur when production increases and the cost per unit decreases."
+    },
+    {
+      "id": 154,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "hard",
+      "question": "What is intellectual property?",
+      "choices": [
+        "A. Physical machines",
+        "B. Legal rights over ideas and creations",
+        "C. Business debt",
+        "D. Customer list only"
+      ],
+      "answer": "B",
+      "explanation": "Intellectual property protects inventions, designs, and creative works legally."
+    },
+    {
+      "id": 155,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "hard",
+      "question": "What is a business merger?",
+      "choices": [
+        "A. Two companies combining into one",
+        "B. Business closure",
+        "C. Employee firing",
+        "D. Product launch"
+      ],
+      "answer": "A",
+      "explanation": "A merger occurs when two companies combine to form one larger organization for growth or efficiency."
+    },
+
+  {
+    "id": 156,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is a business plan mainly used for?",
+    "choices": [
+      "A. To predict weather",
+      "B. To guide business goals and operations",
+      "C. To eliminate competition",
+      "D. To replace employees"
+    ],
+    "answer": "B",
+    "explanation": "A business plan outlines objectives, strategies, and financial forecasts, guiding how a business will operate and grow."
+  },
+  {
+    "id": 157,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is a product?",
+    "choices": [
+      "A. Something sold to customers",
+      "B. Only a service",
+      "C. A business debt",
+      "D. A customer complaint"
+    ],
+    "answer": "A",
+    "explanation": "A product is any good or service offered to customers in exchange for money."
+  },
+  {
+    "id": 158,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is customer feedback?",
+    "choices": [
+      "A. Business profit report",
+      "B. Opinions from customers about products/services",
+      "C. Government tax report",
+      "D. Employee salary data"
+    ],
+    "answer": "B",
+    "explanation": "Customer feedback helps businesses improve by understanding customer satisfaction and complaints."
+  },
+  {
+    "id": 159,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is advertising goal?",
+    "choices": [
+      "A. To reduce customers",
+      "B. To promote products and increase sales",
+      "C. To increase business debt",
+      "D. To stop production"
+    ],
+    "answer": "B",
+    "explanation": "Advertising aims to attract customers and increase awareness and sales of products or services."
+  },
+  {
+    "id": 160,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is a marketplace?",
+    "choices": [
+      "A. A place where goods and services are bought and sold",
+      "B. A school environment",
+      "C. A government office",
+      "D. A factory only"
+    ],
+    "answer": "A",
+    "explanation": "A marketplace is any physical or digital space where buyers and sellers interact."
+  },
+
+  {
+    "id": 161,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is supply chain management?",
+    "choices": [
+      "A. Managing employee salaries",
+      "B. Coordinating production and delivery of goods",
+      "C. Increasing taxes",
+      "D. Reducing marketing"
+    ],
+    "answer": "B",
+    "explanation": "Supply chain management ensures smooth flow of goods from production to customers efficiently."
+  },
+  {
+    "id": 162,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is business sustainability?",
+    "choices": [
+      "A. Short-term profit only",
+      "B. Long-term survival and responsible growth",
+      "C. Ignoring customers",
+      "D. Increasing debt"
+    ],
+    "answer": "B",
+    "explanation": "Sustainability focuses on long-term success while considering environmental, social, and economic factors."
+  },
+  {
+    "id": 163,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is market competition?",
+    "choices": [
+      "A. Cooperation between all businesses",
+      "B. Rivalry between businesses offering similar products",
+      "C. Government control",
+      "D. Customer loyalty only"
+    ],
+    "answer": "B",
+    "explanation": "Competition pushes businesses to improve quality, reduce prices, and innovate."
+  },
+  {
+    "id": 164,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is branding strategy?",
+    "choices": [
+      "A. Random logo design",
+      "B. Plan to build and promote brand identity",
+      "C. Ignoring customers",
+      "D. Reducing sales"
+    ],
+    "answer": "B",
+    "explanation": "Branding strategy defines how a business wants to be perceived by customers."
+  },
+  {
+    "id": 165,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is fixed cost?",
+    "choices": [
+      "A. Cost that changes daily",
+      "B. Cost that remains constant regardless of production",
+      "C. Customer payment",
+      "D. Profit margin"
+    ],
+    "answer": "B",
+    "explanation": "Fixed costs like rent remain the same regardless of production level."
+  },
+
+  {
+    "id": 166,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is variable cost?",
+    "choices": [
+      "A. Cost that never changes",
+      "B. Cost that changes with production level",
+      "C. Business name",
+      "D. Marketing strategy"
+    ],
+    "answer": "B",
+    "explanation": "Variable costs increase or decrease depending on production output, such as raw materials."
+  },
+  {
+    "id": 167,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is entrepreneurship opportunity?",
+    "choices": [
+      "A. A chance to start or grow a business",
+      "B. A business failure",
+      "C. Government regulation",
+      "D. Employee salary"
+    ],
+    "answer": "A",
+    "explanation": "An opportunity is a favorable situation that allows an entrepreneur to create or expand a business."
+  },
+  {
+    "id": 168,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is business networking?",
+    "choices": [
+      "A. Ignoring other businesses",
+      "B. Building professional relationships",
+      "C. Closing business deals only",
+      "D. Reducing communication"
+    ],
+    "answer": "B",
+    "explanation": "Networking helps entrepreneurs build relationships that can lead to partnerships and opportunities."
+  },
+  {
+    "id": 169,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is online branding?",
+    "choices": [
+      "A. Selling offline only",
+      "B. Building brand identity through internet platforms",
+      "C. Avoiding customers",
+      "D. Printing newspapers only"
+    ],
+    "answer": "B",
+    "explanation": "Online branding uses websites and social media to build awareness and trust."
+  },
+  {
+    "id": 170,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is customer acquisition?",
+    "choices": [
+      "A. Losing customers",
+      "B. Gaining new customers",
+      "C. Ignoring customers",
+      "D. Reducing prices only"
+    ],
+    "answer": "B",
+    "explanation": "Customer acquisition refers to attracting and converting new buyers to a business."
+  },
+
+  {
+    "id": 171,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "hard",
+    "question": "What is opportunity cost in business decisions?",
+    "choices": [
+      "A. Total revenue",
+      "B. Value of the next best alternative forgone",
+      "C. Business profit",
+      "D. Fixed cost"
+    ],
+    "answer": "B",
+    "explanation": "Opportunity cost is what you give up when choosing one option over another in business decisions."
+  },
+  {
+    "id": 172,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "hard",
+    "question": "What is vertical integration?",
+    "choices": [
+      "A. Expanding into unrelated industries",
+      "B. Controlling multiple stages of production and supply chain",
+      "C. Reducing production",
+      "D. Hiring employees only"
+    ],
+    "answer": "B",
+    "explanation": "Vertical integration occurs when a company controls different stages of production or distribution."
+  },
+  {
+    "id": 173,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "hard",
+    "question": "What is market saturation?",
+    "choices": [
+      "A. No competitors exist",
+      "B. Market is full with similar products",
+      "C. High profits only",
+      "D. No customers exist"
+    ],
+    "answer": "B",
+    "explanation": "Market saturation happens when too many similar products exist, reducing growth opportunities."
+  },
+  {
+    "id": 174,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "hard",
+    "question": "What is corporate governance?",
+    "choices": [
+      "A. Employee hiring process",
+      "B. System of rules controlling business management",
+      "C. Marketing strategy",
+      "D. Product design only"
+    ],
+    "answer": "B",
+    "explanation": "Corporate governance ensures accountability, fairness, and transparency in business management."
+  },
+  {
+    "id": 175,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "hard",
+    "question": "What is financial risk?",
+    "choices": [
+      "A. Guaranteed profit",
+      "B. Possibility of financial loss",
+      "C. Employee salary increase",
+      "D. Customer satisfaction"
+    ],
+    "answer": "B",
+    "explanation": "Financial risk refers to uncertainty of returns or potential loss in business investments."
+  },
+  {
+    "id": 176,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is a business customer?",
+    "choices": [
+      "A. A person who sells goods",
+      "B. A person who buys goods or services",
+      "C. A business competitor",
+      "D. A government officer"
+    ],
+    "answer": "B",
+    "explanation": "A customer is anyone who purchases goods or services from a business, forming the core of business revenue."
+  },
+  {
+    "id": 177,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is a service?",
+    "choices": [
+      "A. Physical product only",
+      "B. An action done for someone in exchange for payment",
+      "C. A business debt",
+      "D. A factory machine"
+    ],
+    "answer": "B",
+    "explanation": "A service is an intangible activity provided to customers, such as repair, transport, or consulting."
+  },
+  {
+    "id": 178,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is a shop?",
+    "choices": [
+      "A. A place where goods are stored only",
+      "B. A place where goods are sold to customers",
+      "C. A school",
+      "D. A bank"
+    ],
+    "answer": "B",
+    "explanation": "A shop is a retail space where goods are displayed and sold to customers."
+  },
+  {
+    "id": 179,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is a business loss?",
+    "choices": [
+      "A. When revenue is higher than expenses",
+      "B. When expenses are higher than revenue",
+      "C. When sales increase",
+      "D. When customers increase"
+    ],
+    "answer": "B",
+    "explanation": "A loss occurs when a business spends more money than it earns from sales."
+  },
+  {
+    "id": 180,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is selling price?",
+    "choices": [
+      "A. Cost to produce goods",
+      "B. Price at which a product is sold",
+      "C. Business debt",
+      "D. Employee salary"
+    ],
+    "answer": "B",
+    "explanation": "Selling price is the amount customers pay to buy a product or service."
+  },
+
+  {
+    "id": 181,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is a distribution channel?",
+    "choices": [
+      "A. A method of advertising",
+      "B. The path goods take from producer to consumer",
+      "C. A type of tax",
+      "D. A financial report"
+    ],
+    "answer": "B",
+    "explanation": "Distribution channels explain how products move from producers to end users through intermediaries or directly."
+  },
+  {
+    "id": 182,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is brand equity?",
+    "choices": [
+      "A. Physical store value",
+      "B. Value added to a product by its brand name",
+      "C. Business debt",
+      "D. Employee performance"
+    ],
+    "answer": "B",
+    "explanation": "Brand equity is the value a brand adds to a product based on reputation, trust, and recognition."
+  },
+  {
+    "id": 183,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is market positioning?",
+    "choices": [
+      "A. Where a business is physically located",
+      "B. How a brand is perceived in the market",
+      "C. Employee ranking",
+      "D. Government regulation"
+    ],
+    "answer": "B",
+    "explanation": "Market positioning defines how customers perceive a brand compared to competitors."
+  },
+  {
+    "id": 184,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is business expansion?",
+    "choices": [
+      "A. Reducing operations",
+      "B. Growing business size or operations",
+      "C. Closing branches",
+      "D. Increasing debt only"
+    ],
+    "answer": "B",
+    "explanation": "Business expansion refers to increasing operations, markets, or product lines to grow revenue."
+  },
+  {
+    "id": 185,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is customer relationship management (CRM)?",
+    "choices": [
+      "A. Ignoring customers",
+      "B. Managing interactions with customers to improve relationships",
+      "C. Increasing prices randomly",
+      "D. Reducing service quality"
+    ],
+    "answer": "B",
+    "explanation": "CRM involves strategies and tools used to manage and improve customer relationships and retention."
+  },
+
+  {
+    "id": 186,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is business liquidity?",
+    "choices": [
+      "A. Ability to convert assets into cash quickly",
+      "B. Amount of employees",
+      "C. Marketing strategy",
+      "D. Production speed"
+    ],
+    "answer": "A",
+    "explanation": "Liquidity refers to how quickly a business can access cash to meet short-term obligations."
+  },
+  {
+    "id": 187,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is a niche market?",
+    "choices": [
+      "A. A very large general market",
+      "B. A specialized segment of customers",
+      "C. Government market",
+      "D. Global monopoly"
+    ],
+    "answer": "B",
+    "explanation": "A niche market targets a specific group of customers with unique needs."
+  },
+  {
+    "id": 188,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is business forecasting?",
+    "choices": [
+      "A. Guessing randomly",
+      "B. Predicting future business trends using data",
+      "C. Ignoring market trends",
+      "D. Increasing prices only"
+    ],
+    "answer": "B",
+    "explanation": "Forecasting uses data analysis to predict future sales, demand, or market behavior."
+  },
+  {
+    "id": 189,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is an asset in business?",
+    "choices": [
+      "A. Business debt",
+      "B. Something valuable owned by a business",
+      "C. Customer complaint",
+      "D. Marketing expense"
+    ],
+    "answer": "B",
+    "explanation": "Assets include anything valuable owned by a business such as cash, equipment, or property."
+  },
+  {
+    "id": 190,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "medium",
+    "question": "What is business outsourcing risk?",
+    "choices": [
+      "A. No risk involved",
+      "B. Losing control over external operations",
+      "C. Increasing profits always",
+      "D. Eliminating employees"
+    ],
+    "answer": "B",
+    "explanation": "Outsourcing can reduce control over quality and delivery since tasks are handled externally."
+  },
+
+  {
+    "id": 191,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "hard",
+    "question": "What is capital structure in business?",
+    "choices": [
+      "A. Employee hierarchy",
+      "B. Mix of debt and equity financing",
+      "C. Marketing strategy",
+      "D. Customer base"
+    ],
+    "answer": "B",
+    "explanation": "Capital structure refers to how a business finances its operations using debt and equity."
+  },
+  {
+    "id": 192,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "hard",
+    "question": "What is business amortization?",
+    "choices": [
+      "A. Increasing profit",
+      "B. Gradual repayment of debt over time",
+      "C. Employee hiring",
+      "D. Marketing cost"
+    ],
+    "answer": "B",
+    "explanation": "Amortization spreads loan repayments over time, reducing financial burden gradually."
+  },
+  {
+    "id": 193,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "hard",
+    "question": "What is market equilibrium?",
+    "choices": [
+      "A. When supply exceeds demand",
+      "B. When demand equals supply",
+      "C. When prices fall to zero",
+      "D. When businesses close"
+    ],
+    "answer": "B",
+    "explanation": "Market equilibrium occurs when quantity supplied equals quantity demanded at a stable price."
+  },
+  {
+    "id": 194,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "hard",
+    "question": "What is hedge in business finance?",
+    "choices": [
+      "A. Increasing risk exposure",
+      "B. Reducing financial risk through investment strategies",
+      "C. Ignoring losses",
+      "D. Increasing debt"
+    ],
+    "answer": "B",
+    "explanation": "Hedging is used to reduce or offset risk in financial investments."
+  },
+  {
+    "id": 195,
+    "category": "Business/Entrepreneurship",
+    "difficulty": "hard",
+    "question": "What is business valuation multiple?",
+    "choices": [
+      "A. Random pricing method",
+      "B. Metric used to estimate company value based on earnings",
+      "C. Employee ranking system",
+      "D. Customer feedback score"
+    ],
+    "answer": "B",
+    "explanation": "Valuation multiples compare financial metrics like profit to estimate business worth."
+  },
+    {
+      "id": 196,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "easy",
+      "question": "What is a business transaction?",
+      "choices": [
+        "A. A social event",
+        "B. Exchange of goods or services for money",
+        "C. A school activity",
+        "D. A government policy"
+      ],
+      "answer": "B",
+      "explanation": "A business transaction is any exchange between a buyer and seller involving goods, services, or money."
+    },
+    {
+      "id": 197,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "easy",
+      "question": "What is a customer need?",
+      "choices": [
+        "A. Something unnecessary",
+        "B. A requirement or desire for a product or service",
+        "C. A business expense",
+        "D. A marketing tool"
+      ],
+      "answer": "B",
+      "explanation": "Customer needs are basic requirements that drive demand for products or services."
+    },
+    {
+      "id": 198,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "easy",
+      "question": "What is a product price?",
+      "choices": [
+        "A. Cost of production only",
+        "B. Amount charged for a product",
+        "C. Business debt",
+        "D. Employee salary"
+      ],
+      "answer": "B",
+      "explanation": "Price is the amount customers pay to purchase a product or service."
+    },
+    {
+      "id": 199,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "easy",
+      "question": "What is a business goal?",
+      "choices": [
+        "A. Random activity",
+        "B. Desired outcome a business wants to achieve",
+        "C. Employee complaint",
+        "D. Government rule"
+      ],
+      "answer": "B",
+      "explanation": "Business goals are clear targets set to guide growth and success."
+    },
+    {
+      "id": 200,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "easy",
+      "question": "What is customer attraction?",
+      "choices": [
+        "A. Losing customers",
+        "B. Drawing customers to a business",
+        "C. Ignoring customers",
+        "D. Increasing costs"
+      ],
+      "answer": "B",
+      "explanation": "Customer attraction involves strategies used to bring new customers into a business."
+    },
+
+    {
+      "id": 201,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "medium",
+      "question": "What is market share?",
+      "choices": [
+        "A. Total business debt",
+        "B. Percentage of total sales a company has in a market",
+        "C. Employee count",
+        "D. Product packaging"
+      ],
+      "answer": "B",
+      "explanation": "Market share shows how much of the total market sales a business controls."
+    },
+    {
+      "id": 202,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "medium",
+      "question": "What is business scalability?",
+      "choices": [
+        "A. Ability to reduce operations",
+        "B. Ability to grow without losing efficiency",
+        "C. Employee reduction",
+        "D. Fixed production"
+      ],
+      "answer": "B",
+      "explanation": "Scalability is a business’s ability to increase output or customers without proportional cost increase."
+    },
+    {
+      "id": 203,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "medium",
+      "question": "What is break-even analysis?",
+      "choices": [
+        "A. Calculating profit only",
+        "B. Determining when revenue equals costs",
+        "C. Increasing expenses",
+        "D. Reducing sales"
+      ],
+      "answer": "B",
+      "explanation": "Break-even analysis identifies the point where a business makes no profit or loss."
+    },
+    {
+      "id": 204,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "medium",
+      "question": "What is corporate branding?",
+      "choices": [
+        "A. Branding for individuals only",
+        "B. Branding for entire company identity",
+        "C. Product destruction",
+        "D. Employee management"
+      ],
+      "answer": "B",
+      "explanation": "Corporate branding represents the identity and reputation of the entire company, not just a product."
+    },
+    {
+      "id": 205,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "medium",
+      "question": "What is customer segmentation?",
+      "choices": [
+        "A. Dividing customers into groups based on traits",
+        "B. Ignoring customers",
+        "C. Increasing prices randomly",
+        "D. Closing business branches"
+      ],
+      "answer": "A",
+      "explanation": "Customer segmentation divides markets into groups for targeted marketing strategies."
+    },
+
+    {
+      "id": 206,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "medium",
+      "question": "What is digital transformation in business?",
+      "choices": [
+        "A. Avoiding technology",
+        "B. Integrating digital technology into all business areas",
+        "C. Reducing internet use",
+        "D. Closing online stores"
+      ],
+      "answer": "B",
+      "explanation": "Digital transformation uses technology to improve business processes, customer experience, and efficiency."
+    },
+    {
+      "id": 207,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "medium",
+      "question": "What is business analytics?",
+      "choices": [
+        "A. Guessing outcomes",
+        "B. Using data to make business decisions",
+        "C. Ignoring data",
+        "D. Increasing expenses"
+      ],
+      "answer": "B",
+      "explanation": "Business analytics involves analyzing data to improve decision-making and performance."
+    },
+    {
+      "id": 208,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "medium",
+      "question": "What is customer lifetime value?",
+      "choices": [
+        "A. Total profit from one sale",
+        "B. Total revenue expected from a customer over time",
+        "C. Employee salary",
+        "D. Marketing cost"
+      ],
+      "answer": "B",
+      "explanation": "Customer lifetime value estimates the total worth of a customer throughout their relationship with a business."
+    },
+    {
+      "id": 209,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "medium",
+      "question": "What is supply and demand?",
+      "choices": [
+        "A. Business profit system",
+        "B. Relationship between availability and desire of goods",
+        "C. Employee structure",
+        "D. Government policy"
+      ],
+      "answer": "B",
+      "explanation": "Supply and demand determine prices based on availability and customer desire."
+    },
+    {
+      "id": 210,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "medium",
+      "question": "What is brand loyalty?",
+      "choices": [
+        "A. Switching brands often",
+        "B. Consistent preference for one brand",
+        "C. Ignoring brands",
+        "D. Increasing prices"
+      ],
+      "answer": "B",
+      "explanation": "Brand loyalty is when customers repeatedly choose the same brand over competitors."
+    },
+
+    {
+      "id": 211,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "hard",
+      "question": "What is financial leverage ratio?",
+      "choices": [
+        "A. Measure of marketing success",
+        "B. Ratio of debt to equity in financing",
+        "C. Customer satisfaction score",
+        "D. Product pricing method"
+      ],
+      "answer": "B",
+      "explanation": "Financial leverage ratio shows how much debt a company uses compared to equity to finance operations."
+    },
+    {
+      "id": 212,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "hard",
+      "question": "What is business disruption?",
+      "choices": [
+        "A. Market stability",
+        "B. Innovation that changes or replaces existing markets",
+        "C. Employee training",
+        "D. Fixed pricing"
+      ],
+      "answer": "B",
+      "explanation": "Disruption occurs when new innovations significantly change how industries operate."
+    },
+    {
+      "id": 213,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "hard",
+      "question": "What is return on assets (ROA)?",
+      "choices": [
+        "A. Profit relative to total assets",
+        "B. Employee salary ratio",
+        "C. Customer count",
+        "D. Advertising cost"
+      ],
+      "answer": "A",
+      "explanation": "ROA measures how efficiently a company uses its assets to generate profit."
+    },
+    {
+      "id": 214,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "hard",
+      "question": "What is financial forecasting?",
+      "choices": [
+        "A. Guessing profits randomly",
+        "B. Predicting future financial outcomes using data",
+        "C. Increasing expenses",
+        "D. Ignoring budgets"
+      ],
+      "answer": "B",
+      "explanation": "Financial forecasting uses historical data to estimate future revenue, costs, and profits."
+    },
+    {
+      "id": 215,
+      "category": "Business/Entrepreneurship",
+      "difficulty": "hard",
+      "question": "What is corporate social responsibility (CSR)?",
+      "choices": [
+        "A. Avoiding community work",
+        "B. Business responsibility toward society and environment",
+        "C. Increasing debt",
+        "D. Reducing employees"
+      ],
+      "answer": "B",
+      "explanation": "CSR involves businesses acting ethically and contributing positively to society and the environment."
+    },
+
+  {
+    "id": 216,
+    "category": "Music & Entertainment",
+    "difficulty": "easy",
+    "question": "Who is often referred to as the 'King of Zambian music'?",
+    "choices": [
+      "A. Slapdee",
+      "B. Macky 2",
+      "C. Drimz",
+      "D. Chester"
+    ],
+    "answer": "B",
+    "explanation": "Macky 2 is widely recognized in Zambia for his influence, consistency, and impact in the music industry."
+  },
+  {
+    "id": 217,
+    "category": "Music & Entertainment",
+    "difficulty": "easy",
+    "question": "Which platform is most used for sharing music videos today?",
+    "choices": [
+      "A. YouTube",
+      "B. Email",
+      "C. Calculator",
+      "D. Word document"
+    ],
+    "answer": "A",
+    "explanation": "YouTube is the largest platform for uploading and streaming music videos globally."
+  },
+  {
+    "id": 218,
+    "category": "Music & Entertainment",
+    "difficulty": "easy",
+    "question": "What does a DJ mainly do?",
+    "choices": [
+      "A. Writes books",
+      "B. Mixes and plays music",
+      "C. Builds houses",
+      "D. Teaches math"
+    ],
+    "answer": "B",
+    "explanation": "A DJ (Disc Jockey) mixes and plays recorded music for entertainment."
+  },
+  {
+    "id": 219,
+    "category": "Music & Entertainment",
+    "difficulty": "easy",
+    "question": "Which of the following is a music genre?",
+    "choices": [
+      "A. Hip-hop",
+      "B. Mathematics",
+      "C. Biology",
+      "D. Chemistry"
+    ],
+    "answer": "A",
+    "explanation": "Hip-hop is a popular music genre that includes rap, beats, and rhythm-based vocals."
+  },
+  {
+    "id": 220,
+    "category": "Music & Entertainment",
+    "difficulty": "easy",
+    "question": "What is a microphone used for?",
+    "choices": [
+      "A. Cooking",
+      "B. Recording or amplifying sound",
+      "C. Driving",
+      "D. Painting"
+    ],
+    "answer": "B",
+    "explanation": "A microphone captures and amplifies sound for recording or live performance."
+  },
+
+  {
+    "id": 221,
+    "category": "Music & Entertainment",
+    "difficulty": "medium",
+    "question": "What is a music album?",
+    "choices": [
+      "A. A single song only",
+      "B. A collection of songs",
+      "C. A video game",
+      "D. A movie script"
+    ],
+    "answer": "B",
+    "explanation": "An album is a collection of songs released together by an artist."
+  },
+  {
+    "id": 222,
+    "category": "Music & Entertainment",
+    "difficulty": "medium",
+    "question": "What is copyright in music?",
+    "choices": [
+      "A. Permission to copy anything",
+      "B. Legal protection of original music work",
+      "C. Free downloading system",
+      "D. Social media sharing"
+    ],
+    "answer": "B",
+    "explanation": "Copyright protects artists’ original music from being used without permission."
+  },
+  {
+    "id": 223,
+    "category": "Music & Entertainment",
+    "difficulty": "medium",
+    "question": "What is streaming in music?",
+    "choices": [
+      "A. Downloading permanently",
+      "B. Listening online without downloading",
+      "C. Recording music only",
+      "D. Selling instruments"
+    ],
+    "answer": "B",
+    "explanation": "Streaming allows users to listen to music online without saving it permanently."
+  },
+  {
+    "id": 224,
+    "category": "Music & Entertainment",
+    "difficulty": "medium",
+    "question": "Which of the following is a famous Zambian music group?",
+    "choices": [
+      "A. Urban Hype",
+      "B. Coldplay",
+      "C. BTS",
+      "D. Imagine Dragons"
+    ],
+    "answer": "A",
+    "explanation": "Urban Hype is a well-known Zambian music group famous for hits in local entertainment."
+  },
+  {
+    "id": 225,
+    "category": "Music & Entertainment",
+    "difficulty": "medium",
+    "question": "What is a music producer responsible for?",
+    "choices": [
+      "A. Singing only",
+      "B. Creating and arranging music production",
+      "C. Dancing only",
+      "D. Selling tickets"
+    ],
+    "answer": "B",
+    "explanation": "A music producer oversees the creation, arrangement, and recording of music tracks."
+  },
+
+  {
+    "id": 226,
+    "category": "Music & Entertainment",
+    "difficulty": "medium",
+    "question": "What is a beat in music?",
+    "choices": [
+      "A. A type of instrument",
+      "B. The rhythm or pulse of a song",
+      "C. A music video",
+      "D. A concert ticket"
+    ],
+    "answer": "B",
+    "explanation": "A beat is the basic unit of rhythm that drives a song."
+  },
+  {
+    "id": 227,
+    "category": "Music & Entertainment",
+    "difficulty": "medium",
+    "question": "What is autotune used for?",
+    "choices": [
+      "A. Cooking food",
+      "B. Correcting or modifying vocal pitch",
+      "C. Lighting stage",
+      "D. Playing instruments"
+    ],
+    "answer": "B",
+    "explanation": "Autotune adjusts vocal pitch to make singing sound smoother or more accurate."
+  },
+  {
+    "id": 228,
+    "category": "Music & Entertainment",
+    "difficulty": "medium",
+    "question": "What is a concert?",
+    "choices": [
+      "A. A written exam",
+      "B. Live music performance",
+      "C. A business meeting",
+      "D. A sports match"
+    ],
+    "answer": "B",
+    "explanation": "A concert is a live performance where artists perform music for an audience."
+  },
+  {
+    "id": 229,
+    "category": "Music & Entertainment",
+    "difficulty": "medium",
+    "question": "What is a remix?",
+    "choices": [
+      "A. A deleted song",
+      "B. A modified version of an original song",
+      "C. A silent track",
+      "D. A movie trailer"
+    ],
+    "answer": "B",
+    "explanation": "A remix is a reworked version of an original song with changes in sound or style."
+  },
+  {
+    "id": 230,
+    "category": "Music & Entertainment",
+    "difficulty": "medium",
+    "question": "What is stage performance?",
+    "choices": [
+      "A. Studying music theory",
+      "B. Performing live in front of an audience",
+      "C. Writing lyrics only",
+      "D. Recording in studio only"
+    ],
+    "answer": "B",
+    "explanation": "Stage performance involves artists performing live for audiences in real time."
+  },
+
+  {
+    "id": 231,
+    "category": "Music & Entertainment",
+    "difficulty": "hard",
+    "question": "What is sound mixing in music production?",
+    "choices": [
+      "A. Ignoring audio quality",
+      "B. Balancing and combining audio tracks",
+      "C. Writing lyrics",
+      "D. Singing live"
+    ],
+    "answer": "B",
+    "explanation": "Sound mixing combines different audio tracks to produce a balanced final song."
+  },
+  {
+    "id": 232,
+    "category": "Music & Entertainment",
+    "difficulty": "hard",
+    "question": "What is mastering in music?",
+    "choices": [
+      "A. Final audio polishing process",
+      "B. Writing lyrics",
+      "C. Playing instruments",
+      "D. Marketing songs"
+    ],
+    "answer": "A",
+    "explanation": "Mastering is the final step in music production that improves sound quality for distribution."
+  },
+  {
+    "id": 233,
+    "category": "Music & Entertainment",
+    "difficulty": "hard",
+    "question": "What is music distribution?",
+    "choices": [
+      "A. Singing live only",
+      "B. Releasing music to platforms and audiences",
+      "C. Recording instruments only",
+      "D. Writing songs only"
+    ],
+    "answer": "B",
+    "explanation": "Distribution is how music is delivered to streaming platforms, stores, and listeners."
+  },
+  {
+    "id": 234,
+    "category": "Music & Entertainment",
+    "difficulty": "hard",
+    "question": "What is an EP in music?",
+    "choices": [
+      "A. Extra Performance",
+      "B. Extended Play record",
+      "C. Electronic Piano",
+      "D. Entertainment Program"
+    ],
+    "answer": "B",
+    "explanation": "An EP is a music release that is longer than a single but shorter than an album."
+  },
+  {
+    "id": 235,
+    "category": "Music & Entertainment",
+    "difficulty": "hard",
+    "question": "What is acoustic music?",
+    "choices": [
+      "A. Music without instruments",
+      "B. Music produced using non-electronic instruments",
+      "C. Digital-only music",
+      "D. Silent performance"
+    ],
+    "answer": "B",
+    "explanation": "Acoustic music uses natural instruments like guitars and drums without electronic enhancement."
+  },
+    {
+      "id": 236,
+      "category": "Sports",
+      "difficulty": "easy",
+      "question": "How many players are on a football (soccer) team on the field?",
+      "choices": [
+        "A. 9",
+        "B. 10",
+        "C. 11",
+        "D. 12"
+      ],
+      "answer": "C",
+      "explanation": "Each football team has 11 players on the field, including the goalkeeper."
+    },
+    {
+      "id": 237,
+      "category": "Sports",
+      "difficulty": "easy",
+      "question": "What sport is played at Wimbledon?",
+      "choices": [
+        "A. Football",
+        "B. Tennis",
+        "C. Basketball",
+        "D. Rugby"
+      ],
+      "answer": "B",
+      "explanation": "Wimbledon is one of the most famous tennis tournaments in the world."
+    },
+    {
+      "id": 238,
+      "category": "Sports",
+      "difficulty": "easy",
+      "question": "Which country hosted the 2010 FIFA World Cup in Africa?",
+      "choices": [
+        "A. Nigeria",
+        "B. South Africa",
+        "C. Zambia",
+        "D. Egypt"
+      ],
+      "answer": "B",
+      "explanation": "South Africa hosted the 2010 FIFA World Cup, the first ever in Africa."
+    },
+    {
+      "id": 239,
+      "category": "Sports",
+      "difficulty": "easy",
+      "question": "What is used to play basketball?",
+      "choices": [
+        "A. Bat",
+        "B. Ball",
+        "C. Racket",
+        "D. Stick"
+      ],
+      "answer": "B",
+      "explanation": "Basketball is played using a ball that players dribble, pass, and shoot into a hoop."
+    },
+    {
+      "id": 240,
+      "category": "Sports",
+      "difficulty": "easy",
+      "question": "Which sport uses a bat and ball and is popular in England?",
+      "choices": [
+        "A. Cricket",
+        "B. Tennis",
+        "C. Boxing",
+        "D. Swimming"
+      ],
+      "answer": "A",
+      "explanation": "Cricket is a bat-and-ball game widely played in England and Commonwealth countries."
+    },
+
+    {
+      "id": 241,
+      "category": "Sports",
+      "difficulty": "medium",
+      "question": "What is a red card in football?",
+      "choices": [
+        "A. Warning for coach",
+        "B. Player is sent off the field",
+        "C. Goal scored",
+        "D. Extra time"
+      ],
+      "answer": "B",
+      "explanation": "A red card means a player is expelled from the match for serious fouls or misconduct."
+    },
+    {
+      "id": 242,
+      "category": "Sports",
+      "difficulty": "medium",
+      "question": "How long is a standard football match?",
+      "choices": [
+        "A. 60 minutes",
+        "B. 80 minutes",
+        "C. 90 minutes",
+        "D. 100 minutes"
+      ],
+      "answer": "C",
+      "explanation": "A standard football match lasts 90 minutes, divided into two halves of 45 minutes."
+    },
+    {
+      "id": 243,
+      "category": "Sports",
+      "difficulty": "medium",
+      "question": "What is offside in football?",
+      "choices": [
+        "A. Scoring a goal",
+        "B. Player is ahead of defenders when receiving the ball",
+        "C. Throwing the ball",
+        "D. Substitution"
+      ],
+      "answer": "B",
+      "explanation": "Offside occurs when an attacking player is nearer to the opponent’s goal than the last defender when receiving the ball."
+    },
+    {
+      "id": 244,
+      "category": "Sports",
+      "difficulty": "medium",
+      "question": "What is a hat-trick in football?",
+      "choices": [
+        "A. Three assists",
+        "B. Three goals by one player in a match",
+        "C. Three fouls",
+        "D. Three substitutions"
+      ],
+      "answer": "B",
+      "explanation": "A hat-trick is when a player scores three goals in a single match."
+    },
+    {
+      "id": 245,
+      "category": "Sports",
+      "difficulty": "medium",
+      "question": "Which organization governs world football?",
+      "choices": [
+        "A. NBA",
+        "B. FIFA",
+        "C. IOC",
+        "D. UEFA only"
+      ],
+      "answer": "B",
+      "explanation": "FIFA is the international governing body for football worldwide."
+    },
+
+    {
+      "id": 246,
+      "category": "Sports",
+      "difficulty": "medium",
+      "question": "What is stamina in sports?",
+      "choices": [
+        "A. Strength only",
+        "B. Ability to sustain physical effort over time",
+        "C. Speed only",
+        "D. Height advantage"
+      ],
+      "answer": "B",
+      "explanation": "Stamina refers to the ability to maintain physical activity for long periods without getting tired."
+    },
+    {
+      "id": 247,
+      "category": "Sports",
+      "difficulty": "medium",
+      "question": "What is a penalty kick in football?",
+      "choices": [
+        "A. A free throw from midfield",
+        "B. A shot taken from the penalty spot after a foul",
+        "C. A corner kick",
+        "D. A throw-in"
+      ],
+      "answer": "B",
+      "explanation": "A penalty kick is awarded after a foul inside the penalty area."
+    },
+    {
+      "id": 248,
+      "category": "Sports",
+      "difficulty": "medium",
+      "question": "Which sport is known as 'the king of sports' in Zambia?",
+      "choices": [
+        "A. Basketball",
+        "B. Football",
+        "C. Boxing",
+        "D. Athletics"
+      ],
+      "answer": "B",
+      "explanation": "Football is the most popular and widely followed sport in Zambia."
+    },
+    {
+      "id": 249,
+      "category": "Sports",
+      "difficulty": "medium",
+      "question": "What is a referee's role?",
+      "choices": [
+        "A. Score goals",
+        "B. Enforce rules in a match",
+        "C. Train players",
+        "D. Sell tickets"
+      ],
+      "answer": "B",
+      "explanation": "A referee ensures the rules of the game are followed during a match."
+    },
+    {
+      "id": 250,
+      "category": "Sports",
+      "difficulty": "medium",
+      "question": "What is a substitute in sports?",
+      "choices": [
+        "A. A coach",
+        "B. A replacement player",
+        "C. A referee",
+        "D. A spectator"
+      ],
+      "answer": "B",
+      "explanation": "A substitute is a player who replaces another player during a match."
+    },
+
+    {
+      "id": 251,
+      "category": "Sports",
+      "difficulty": "hard",
+      "question": "What is VAR in football?",
+      "choices": [
+        "A. Video Assistant Referee",
+        "B. Very Active Runner",
+        "C. Virtual Athlete Ranking",
+        "D. Victory Award Rule"
+      ],
+      "answer": "A",
+      "explanation": "VAR (Video Assistant Referee) is technology used to review referee decisions in football."
+    },
+    {
+      "id": 252,
+      "category": "Sports",
+      "difficulty": "hard",
+      "question": "What is aerobic fitness?",
+      "choices": [
+        "A. Ability to lift weights",
+        "B. Ability to use oxygen efficiently during exercise",
+        "C. Speed training only",
+        "D. Flexibility only"
+      ],
+      "answer": "B",
+      "explanation": "Aerobic fitness measures how well the body uses oxygen during sustained exercise."
+    },
+    {
+      "id": 253,
+      "category": "Sports",
+      "difficulty": "hard",
+      "question": "What is a tactical formation in football?",
+      "choices": [
+        "A. Player fitness level",
+        "B. Arrangement of players on the field",
+        "C. Stadium design",
+        "D. Ball size"
+      ],
+      "answer": "B",
+      "explanation": "A formation describes how players are positioned strategically during a match."
+    },
+    {
+      "id": 254,
+      "category": "Sports",
+      "difficulty": "hard",
+      "question": "What is sports psychology?",
+      "choices": [
+        "A. Study of sports equipment",
+        "B. Study of mental performance in athletes",
+        "C. Study of injuries only",
+        "D. Study of stadiums"
+      ],
+      "answer": "B",
+      "explanation": "Sports psychology focuses on mental factors that affect athletic performance."
+    },
+    {
+      "id": 255,
+      "category": "Sports",
+      "difficulty": "hard",
+      "question": "What is doping in sports?",
+      "choices": [
+        "A. Legal training method",
+        "B. Use of banned performance-enhancing substances",
+        "C. Coaching strategy",
+        "D. Nutrition plan"
+      ],
+      "answer": "B",
+      "explanation": "Doping refers to using illegal substances to improve athletic performance, which is banned in sports."
+    },
+
+  {
+    "id": 256,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sport is played in the NBA?",
+    "choices": [
+      "A. Football",
+      "B. Basketball",
+      "C. Tennis",
+      "D. Cricket"
+    ],
+    "answer": "B",
+    "explanation": "The NBA (National Basketball Association) is the top professional basketball league in the world."
+  },
+  {
+    "id": 257,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What is the main object used in football?",
+    "choices": [
+      "A. Bat",
+      "B. Ball",
+      "C. Racket",
+      "D. Stick"
+    ],
+    "answer": "B",
+    "explanation": "Football is played using a round ball that players pass, dribble, and shoot."
+  },
+  {
+    "id": 258,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "How many players are in a basketball team on court?",
+    "choices": [
+      "A. 5",
+      "B. 7",
+      "C. 11",
+      "D. 6"
+    ],
+    "answer": "A",
+    "explanation": "Each basketball team has 5 players on the court during play."
+  },
+  {
+    "id": 259,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sport uses a racket and net?",
+    "choices": [
+      "A. Boxing",
+      "B. Tennis",
+      "C. Athletics",
+      "D. Swimming"
+    ],
+    "answer": "B",
+    "explanation": "Tennis is played using rackets to hit a ball over a net."
+  },
+  {
+    "id": 260,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What do players wear to protect their feet in football?",
+    "choices": [
+      "A. Gloves",
+      "B. Boots",
+      "C. Helmets",
+      "D. Caps"
+    ],
+    "answer": "B",
+    "explanation": "Football players wear boots (cleats) for grip and protection."
+  },
+
+  {
+    "id": 261,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sport involves swimming?",
+    "choices": [
+      "A. Athletics",
+      "B. Swimming",
+      "C. Boxing",
+      "D. Cycling"
+    ],
+    "answer": "B",
+    "explanation": "Swimming is both a sport and an Olympic discipline involving water races."
+  },
+  {
+    "id": 262,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What is a goal in football?",
+    "choices": [
+      "A. A type of pass",
+      "B. Scoring by putting the ball into the net",
+      "C. A foul",
+      "D. A referee signal"
+    ],
+    "answer": "B",
+    "explanation": "A goal is scored when the ball fully crosses the goal line inside the net."
+  },
+  {
+    "id": 263,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sport is associated with running races?",
+    "choices": [
+      "A. Athletics",
+      "B. Wrestling",
+      "C. Golf",
+      "D. Hockey"
+    ],
+    "answer": "A",
+    "explanation": "Athletics includes running, jumping, and throwing events."
+  },
+  {
+    "id": 264,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What is a coach in sports?",
+    "choices": [
+      "A. A player",
+      "B. A trainer who guides athletes",
+      "C. A referee",
+      "D. A fan"
+    ],
+    "answer": "B",
+    "explanation": "A coach trains and guides players to improve performance and strategy."
+  },
+  {
+    "id": 265,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sport uses a ring and gloves?",
+    "choices": [
+      "A. Boxing",
+      "B. Football",
+      "C. Tennis",
+      "D. Volleyball"
+    ],
+    "answer": "A",
+    "explanation": "Boxing is a combat sport where athletes fight using padded gloves in a ring."
+  },
+
+  {
+    "id": 266,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What is a yellow card in football?",
+    "choices": [
+      "A. Goal award",
+      "B. Warning for a foul",
+      "C. Substitution",
+      "D. Victory sign"
+    ],
+    "answer": "B",
+    "explanation": "A yellow card is a warning given to a player for unsporting behavior."
+  },
+  {
+    "id": 267,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What is endurance in sports?",
+    "choices": [
+      "A. Ability to play once",
+      "B. Ability to perform for long periods",
+      "C. Ability to jump high",
+      "D. Ability to score goals"
+    ],
+    "answer": "B",
+    "explanation": "Endurance is the ability to sustain physical activity over time without fatigue."
+  },
+  {
+    "id": 268,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What is a foul in sports?",
+    "choices": [
+      "A. Scoring a goal",
+      "B. Breaking rules during play",
+      "C. Winning a match",
+      "D. Substitution"
+    ],
+    "answer": "B",
+    "explanation": "A foul is an action that breaks the rules of the game."
+  },
+  {
+    "id": 269,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What is extra time in football?",
+    "choices": [
+      "A. Half-time break",
+      "B. Additional play time after draw",
+      "C. Training time",
+      "D. Warm-up period"
+    ],
+    "answer": "B",
+    "explanation": "Extra time is added when a match is tied after regular time."
+  },
+  {
+    "id": 270,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What is a stadium?",
+    "choices": [
+      "A. A school",
+      "B. A sports arena for matches",
+      "C. A hospital",
+      "D. A shop"
+    ],
+    "answer": "B",
+    "explanation": "A stadium is a large venue where sports events are played."
+  },
+
+  {
+    "id": 271,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What is teamwork in sports?",
+    "choices": [
+      "A. Playing alone",
+      "B. Working together to achieve a goal",
+      "C. Refereeing",
+      "D. Spectating"
+    ],
+    "answer": "B",
+    "explanation": "Teamwork involves players cooperating to win matches effectively."
+  },
+  {
+    "id": 272,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What is a league in sports?",
+    "choices": [
+      "A. A single match",
+      "B. A competition with multiple teams",
+      "C. A referee rule",
+      "D. A training session"
+    ],
+    "answer": "B",
+    "explanation": "A league is a structured competition where teams play over a season."
+  },
+  {
+    "id": 273,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What is possession in football?",
+    "choices": [
+      "A. Losing the ball",
+      "B. Controlling the ball",
+      "C. Scoring goals",
+      "D. Fouling"
+    ],
+    "answer": "B",
+    "explanation": "Possession means a team controls the ball during play."
+  },
+  {
+    "id": 274,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What is a goalkeeper's role?",
+    "choices": [
+      "A. Score goals",
+      "B. Prevent goals from being scored",
+      "C. Referee matches",
+      "D. Coach players"
+    ],
+    "answer": "B",
+    "explanation": "The goalkeeper protects the goal and stops the opposing team from scoring."
+  },
+  {
+    "id": 275,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What is substitution?",
+    "choices": [
+      "A. Scoring goals",
+      "B. Replacing a player during a match",
+      "C. Starting a match",
+      "D. Ending a match"
+    ],
+    "answer": "B",
+    "explanation": "Substitution is when one player is replaced by another during a game."
+  },
+
+  {
+    "id": 276,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What is tactical pressing in football?",
+    "choices": [
+      "A. Playing slowly",
+      "B. Pressuring opponents to regain possession",
+      "C. Passing backward",
+      "D. Defensive waiting only"
+    ],
+    "answer": "B",
+    "explanation": "Tactical pressing involves aggressively trying to win the ball back from opponents."
+  },
+  {
+    "id": 277,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What is VO2 max in sports science?",
+    "choices": [
+      "A. Maximum oxygen use during exercise",
+      "B. Maximum speed",
+      "C. Maximum weight lifted",
+      "D. Maximum goals scored"
+    ],
+    "answer": "A",
+    "explanation": "VO2 max measures the maximum amount of oxygen the body can use during exercise."
+  },
+  {
+    "id": 278,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What is counter-attacking in football?",
+    "choices": [
+      "A. Slow defense",
+      "B. Fast attack after regaining possession",
+      "C. Goalkeeping",
+      "D. Time wasting"
+    ],
+    "answer": "B",
+    "explanation": "Counter-attacking is a fast transition from defense to attack."
+  },
+  {
+    "id": 279,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What is biomechanics in sports?",
+    "choices": [
+      "A. Study of sports rules",
+      "B. Study of body movement in sports",
+      "C. Study of fans",
+      "D. Study of stadiums"
+    ],
+    "answer": "B",
+    "explanation": "Biomechanics studies how the body moves during sports performance."
+  },
+  {
+    "id": 280,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What is a high press strategy?",
+    "choices": [
+      "A. Defending deep",
+      "B. Pressing opponents high up the pitch",
+      "C. Sitting back defense",
+      "D. Slow passing"
+    ],
+    "answer": "B",
+    "explanation": "High pressing means applying pressure near the opponent’s goal to regain possession quickly."
+  },
+  {
+    "id": 281,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What is injury prevention in sports?",
+    "choices": [
+      "A. Ignoring warm-ups",
+      "B. Actions taken to reduce risk of injury",
+      "C. Playing without rules",
+      "D. Increasing fatigue"
+    ],
+    "answer": "B",
+    "explanation": "Injury prevention includes warm-ups, proper training, and safety measures."
+  },
+  {
+    "id": 282,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What is sports periodization?",
+    "choices": [
+      "A. Random training",
+      "B. Structured training cycles for performance",
+      "C. No training",
+      "D. Only match play"
+    ],
+    "answer": "B",
+    "explanation": "Periodization is planning training in cycles to improve performance over time."
+  },
+  {
+    "id": 283,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What is mental toughness in sports?",
+    "choices": [
+      "A. Physical strength",
+      "B. Ability to stay focused under pressure",
+      "C. Speed training",
+      "D. Muscle size"
+    ],
+    "answer": "B",
+    "explanation": "Mental toughness is the ability to perform well under stress and pressure."
+  },
+  {
+    "id": 284,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What is sports analytics?",
+    "choices": [
+      "A. Guessing outcomes",
+      "B. Using data to improve performance",
+      "C. Ignoring statistics",
+      "D. Only watching games"
+    ],
+    "answer": "B",
+    "explanation": "Sports analytics uses data to analyze performance and improve strategy."
+  },
+  {
+    "id": 285,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What is recovery in sports training?",
+    "choices": [
+      "A. Playing more games",
+      "B. Rest and repair after training",
+      "C. Increasing fatigue",
+      "D. Avoiding sleep"
+    ],
+    "answer": "B",
+    "explanation": "Recovery allows the body to heal and improve after physical activity."
+  },
+
+  {
+    "id": 286,
+    "category": "Music & Entertainment",
+    "difficulty": "easy",
+    "question": "What is the main role of a singer?",
+    "choices": [
+      "A. To cook food",
+      "B. To perform songs using voice",
+      "C. To fix instruments",
+      "D. To direct movies"
+    ],
+    "answer": "B",
+    "explanation": "A singer uses their voice to perform music and entertain audiences."
+  },
+  {
+    "id": 287,
+    "category": "Music & Entertainment",
+    "difficulty": "easy",
+    "question": "Which device is commonly used to listen to music?",
+    "choices": [
+      "A. Television",
+      "B. Headphones",
+      "C. Fridge",
+      "D. Stove"
+    ],
+    "answer": "B",
+    "explanation": "Headphones are used to listen to music privately."
+  },
+  {
+    "id": 288,
+    "category": "Music & Entertainment",
+    "difficulty": "easy",
+    "question": "What is a song?",
+    "choices": [
+      "A. A written book",
+      "B. A piece of music with lyrics or melody",
+      "C. A movie scene",
+      "D. A dance move only"
+    ],
+    "answer": "B",
+    "explanation": "A song is a musical composition often with lyrics and melody."
+  },
+  {
+    "id": 289,
+    "category": "Music & Entertainment",
+    "difficulty": "easy",
+    "question": "What is a music video?",
+    "choices": [
+      "A. A written script",
+      "B. A visual representation of a song",
+      "C. A radio broadcast",
+      "D. A live concert only"
+    ],
+    "answer": "B",
+    "explanation": "A music video combines visuals and music to represent a song."
+  },
+  {
+    "id": 290,
+    "category": "Music & Entertainment",
+    "difficulty": "easy",
+    "question": "What is rhythm in music?",
+    "choices": [
+      "A. Sound speed pattern",
+      "B. A type of instrument",
+      "C. A video effect",
+      "D. A stage light"
+    ],
+    "answer": "A",
+    "explanation": "Rhythm is the pattern of beats in music."
+  },
+
+  {
+    "id": 291,
+    "category": "Music & Entertainment",
+    "difficulty": "easy",
+    "question": "What is a band?",
+    "choices": [
+      "A. A group of musicians",
+      "B. A sports team",
+      "C. A school class",
+      "D. A radio station"
+    ],
+    "answer": "A",
+    "explanation": "A band is a group of musicians who perform music together."
+  },
+  {
+    "id": 292,
+    "category": "Music & Entertainment",
+    "difficulty": "easy",
+    "question": "What is dancing?",
+    "choices": [
+      "A. Writing music",
+      "B. Moving to rhythm of music",
+      "C. Singing only",
+      "D. Recording sound"
+    ],
+    "answer": "B",
+    "explanation": "Dancing is body movement performed in rhythm with music."
+  },
+  {
+    "id": 293,
+    "category": "Music & Entertainment",
+    "difficulty": "easy",
+    "question": "What is a speaker used for?",
+    "choices": [
+      "A. Cooking food",
+      "B. Playing sound aloud",
+      "C. Taking photos",
+      "D. Writing songs"
+    ],
+    "answer": "B",
+    "explanation": "A speaker produces sound so that others can hear music or audio."
+  },
+  {
+    "id": 294,
+    "category": "Music & Entertainment",
+    "difficulty": "easy",
+    "question": "What is a chorus in a song?",
+    "choices": [
+      "A. First verse only",
+      "B. Repeated main part of a song",
+      "C. Instrument sound",
+      "D. Background noise"
+    ],
+    "answer": "B",
+    "explanation": "The chorus is the repeated and most memorable part of a song."
+  },
+  {
+    "id": 295,
+    "category": "Music & Entertainment",
+    "difficulty": "easy",
+    "question": "What is entertainment?",
+    "choices": [
+      "A. Activities that inform and amuse people",
+      "B. Only studying",
+      "C. Only working",
+      "D. Sleeping only"
+    ],
+    "answer": "A",
+    "explanation": "Entertainment includes activities like music, movies, and shows that amuse people."
+  },
+
+  {
+    "id": 296,
+    "category": "Music & Entertainment",
+    "difficulty": "medium",
+    "question": "What is a verse in music?",
+    "choices": [
+      "A. Repeated chorus",
+      "B. Section of lyrics that tells part of the story",
+      "C. Instrument sound only",
+      "D. Silence in music"
+    ],
+    "answer": "B",
+    "explanation": "A verse contains the storytelling part of a song's lyrics."
+  },
+  {
+    "id": 297,
+    "category": "Music & Entertainment",
+    "difficulty": "medium",
+    "question": "What is tempo in music?",
+    "choices": [
+      "A. Loudness of sound",
+      "B. Speed of a song",
+      "C. Instrument type",
+      "D. Video quality"
+    ],
+    "answer": "B",
+    "explanation": "Tempo refers to how fast or slow a song is played."
+  },
+  {
+    "id": 298,
+    "category": "Music & Entertainment",
+    "difficulty": "medium",
+    "question": "What is a record label?",
+    "choices": [
+      "A. A clothing brand",
+      "B. A company that produces and promotes music",
+      "C. A radio station only",
+      "D. A dance group"
+    ],
+    "answer": "B",
+    "explanation": "A record label manages music production, distribution, and artist promotion."
+  },
+  {
+    "id": 299,
+    "category": "Music & Entertainment",
+    "difficulty": "medium",
+    "question": "What is live performance?",
+    "choices": [
+      "A. Pre-recorded music only",
+      "B. Music performed in real time in front of an audience",
+      "C. Silent acting",
+      "D. Studio editing"
+    ],
+    "answer": "B",
+    "explanation": "Live performance is when artists perform music directly in front of people."
+  },
+  {
+    "id": 300,
+    "category": "Music & Entertainment",
+    "difficulty": "medium",
+    "question": "What is harmony in music?",
+    "choices": [
+      "A. One sound only",
+      "B. Combination of different musical notes",
+      "C. Loud noise",
+      "D. Silence"
+    ],
+    "answer": "B",
+    "explanation": "Harmony is when different notes are played or sung together in a pleasing way."
+  },
+
+  {
+    "id": 301,
+    "category": "Music & Entertainment",
+    "difficulty": "medium",
+    "question": "What is a hit song?",
+    "choices": [
+      "A. A song that is unpopular",
+      "B. A very popular and widely played song",
+      "C. A broken song",
+      "D. A silent track"
+    ],
+    "answer": "B",
+    "explanation": "A hit song gains popularity and is widely listened to."
+  },
+  {
+    "id": 302,
+    "category": "Music & Entertainment",
+    "difficulty": "medium",
+    "question": "What is choreography?",
+    "choices": [
+      "A. Writing music",
+      "B. Planning dance movements",
+      "C. Singing loudly",
+      "D. Recording sound"
+    ],
+    "answer": "B",
+    "explanation": "Choreography is the arrangement of dance movements in a performance."
+  },
+  {
+    "id": 303,
+    "category": "Music & Entertainment",
+    "difficulty": "medium",
+    "question": "What is audio mixing?",
+    "choices": [
+      "A. Combining and balancing sound tracks",
+      "B. Singing live",
+      "C. Dancing on stage",
+      "D. Writing lyrics"
+    ],
+    "answer": "A",
+    "explanation": "Audio mixing balances vocals and instruments into a final sound."
+  },
+  {
+    "id": 304,
+    "category": "Music & Entertainment",
+    "difficulty": "medium",
+    "question": "What is a DJ set?",
+    "choices": [
+      "A. A cooking session",
+      "B. A live music mixing performance",
+      "C. A movie recording",
+      "D. A sports match"
+    ],
+    "answer": "B",
+    "explanation": "A DJ set is when a DJ plays and mixes music live for an audience."
+  },
+  {
+    "id": 305,
+    "category": "Music & Entertainment",
+    "difficulty": "medium",
+    "question": "What is a studio?",
+    "choices": [
+      "A. A sports field",
+      "B. A place where music is recorded",
+      "C. A school classroom",
+      "D. A shop"
+    ],
+    "answer": "B",
+    "explanation": "A studio is a facility where artists record and produce music."
+  },
+
+  {
+    "id": 306,
+    "category": "Music & Entertainment",
+    "difficulty": "hard",
+    "question": "What is dynamic range in music production?",
+    "choices": [
+      "A. Difference between loudest and quietest sound",
+      "B. Number of instruments used",
+      "C. Length of a song",
+      "D. Speed of a beat"
+    ],
+    "answer": "A",
+    "explanation": "Dynamic range is the difference between the softest and loudest parts of an audio track."
+  },
+  {
+    "id": 307,
+    "category": "Music & Entertainment",
+    "difficulty": "hard",
+    "question": "What is a DAW in music production?",
+    "choices": [
+      "A. Digital Audio Workstation",
+      "B. Drum And Wave",
+      "C. Direct Audio Writer",
+      "D. Digital Artist Widget"
+    ],
+    "answer": "A",
+    "explanation": "A DAW is software used to record, edit, and produce music (e.g., FL Studio, Ableton)."
+  },
+  {
+    "id": 308,
+    "category": "Music & Entertainment",
+    "difficulty": "hard",
+    "question": "What is sampling in music?",
+    "choices": [
+      "A. Recording live concerts",
+      "B. Reusing a portion of another song in a new track",
+      "C. Singing without instruments",
+      "D. Playing instruments loudly"
+    ],
+    "answer": "B",
+    "explanation": "Sampling is taking a part of an existing sound or song and reusing it in new music."
+  },
+  {
+    "id": 309,
+    "category": "Music & Entertainment",
+    "difficulty": "hard",
+    "question": "What is mixing latency?",
+    "choices": [
+      "A. Delay between input and output sound in recording",
+      "B. Loudness of music",
+      "C. Number of tracks",
+      "D. Type of microphone"
+    ],
+    "answer": "A",
+    "explanation": "Latency is the delay that occurs between audio input and output in digital systems."
+  },
+  {
+    "id": 310,
+    "category": "Music & Entertainment",
+    "difficulty": "hard",
+    "question": "What is mastering compression used for?",
+    "choices": [
+      "A. Making music louder randomly",
+      "B. Balancing audio levels in final production",
+      "C. Removing instruments",
+      "D. Writing lyrics"
+    ],
+    "answer": "B",
+    "explanation": "Compression in mastering controls volume differences to make the track sound balanced."
+  },
+
+  {
+    "id": 311,
+    "category": "Music & Entertainment",
+    "difficulty": "hard",
+    "question": "What is an audio codec?",
+    "choices": [
+      "A. A file format used for compressing audio",
+      "B. A musical instrument",
+      "C. A dance style",
+      "D. A microphone type"
+    ],
+    "answer": "A",
+    "explanation": "An audio codec compresses and decompresses digital audio files (e.g., MP3, AAC)."
+  },
+  {
+    "id": 312,
+    "category": "Music & Entertainment",
+    "difficulty": "hard",
+    "question": "What is multi-track recording?",
+    "choices": [
+      "A. Recording one sound only",
+      "B. Recording different sound sources separately",
+      "C. Live performance only",
+      "D. Silent recording"
+    ],
+    "answer": "B",
+    "explanation": "Multi-track recording allows separate recording of vocals and instruments for better mixing."
+  },
+  {
+    "id": 313,
+    "category": "Music & Entertainment",
+    "difficulty": "hard",
+    "question": "What is sound frequency in music?",
+    "choices": [
+      "A. Number of songs",
+      "B. Pitch of a sound measured in Hertz",
+      "C. Volume level only",
+      "D. Type of instrument"
+    ],
+    "answer": "B",
+    "explanation": "Frequency determines how high or low a sound is perceived."
+  },
+  {
+    "id": 314,
+    "category": "Music & Entertainment",
+    "difficulty": "hard",
+    "question": "What is auto-tune primarily used for?",
+    "choices": [
+      "A. Changing instruments",
+      "B. Correcting vocal pitch errors",
+      "C. Increasing audience size",
+      "D. Recording videos"
+    ],
+    "answer": "B",
+    "explanation": "Auto-tune corrects pitch in vocal recordings to improve accuracy or create effects."
+  },
+  {
+    "id": 315,
+    "category": "Music & Entertainment",
+    "difficulty": "hard",
+    "question": "What is sound engineering?",
+    "choices": [
+      "A. Designing buildings",
+      "B. Managing and controlling audio quality in production",
+      "C. Writing songs only",
+      "D. Dancing choreography"
+    ],
+    "answer": "B",
+    "explanation": "Sound engineering involves recording, mixing, and optimizing audio in music production."
+  },
+
+  {
+    "id": 316,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "easy",
+    "question": "What comes next in the pattern: 2, 4, 6, 8, ?",
+    "choices": [
+      "A. 9",
+      "B. 10",
+      "C. 11",
+      "D. 12"
+    ],
+    "answer": "B",
+    "explanation": "The pattern increases by 2 each time, so 8 + 2 = 10."
+  },
+  {
+    "id": 317,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "easy",
+    "question": "Which one is odd one out?",
+    "choices": [
+      "A. Apple",
+      "B. Mango",
+      "C. Banana",
+      "D. Carrot"
+    ],
+    "answer": "D",
+    "explanation": "Carrot is a vegetable, while the others are fruits."
+  },
+  {
+    "id": 318,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "easy",
+    "question": "If you have 3 apples and take away 1, how many do you have?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 0"
+    ],
+    "answer": "B",
+    "explanation": "You took 1 apple, so you are left with 2 apples."
+  },
+  {
+    "id": 319,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "easy",
+    "question": "What is the missing number: 5, 10, 15, ?, 25",
+    "choices": [
+      "A. 18",
+      "B. 19",
+      "C. 20",
+      "D. 21"
+    ],
+    "answer": "C",
+    "explanation": "The pattern increases by 5: 5, 10, 15, 20, 25."
+  },
+  {
+    "id": 320,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "easy",
+    "question": "Which word is correctly spelled?",
+    "choices": [
+      "A. Recieve",
+      "B. Receive",
+      "C. Receeve",
+      "D. Receve"
+    ],
+    "answer": "B",
+    "explanation": "The correct spelling is 'Receive'."
+  },
+
+  {
+    "id": 321,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "easy",
+    "question": "What is 10 + 15?",
+    "choices": [
+      "A. 20",
+      "B. 25",
+      "C. 30",
+      "D. 35"
+    ],
+    "answer": "B",
+    "explanation": "10 + 15 = 25."
+  },
+  {
+    "id": 322,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "easy",
+    "question": "Which is the smallest number?",
+    "choices": [
+      "A. 5",
+      "B. 15",
+      "C. 3",
+      "D. 10"
+    ],
+    "answer": "C",
+    "explanation": "3 is the smallest among the given numbers."
+  },
+  {
+    "id": 323,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "easy",
+    "question": "How many days are in a week?",
+    "choices": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. 8"
+    ],
+    "answer": "C",
+    "explanation": "A week has 7 days."
+  },
+  {
+    "id": 324,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "easy",
+    "question": "What comes after Friday?",
+    "choices": [
+      "A. Thursday",
+      "B. Saturday",
+      "C. Sunday",
+      "D. Monday"
+    ],
+    "answer": "B",
+    "explanation": "Saturday comes after Friday."
+  },
+  {
+    "id": 325,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "easy",
+    "question": "Which is a primary color?",
+    "choices": [
+      "A. Green",
+      "B. Orange",
+      "C. Blue",
+      "D. Purple"
+    ],
+    "answer": "C",
+    "explanation": "Blue is a primary color."
+  },
+
+  {
+    "id": 326,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "medium",
+    "question": "If ALL cats are animals and SOME animals are pets, can we conclude all cats are pets?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Always true",
+      "D. Cannot determine"
+    ],
+    "answer": "B",
+    "explanation": "Not all animals are pets, so we cannot assume all cats are pets."
+  },
+  {
+    "id": 327,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "medium",
+    "question": "What is the next number: 3, 6, 12, 24, ?",
+    "choices": [
+      "A. 30",
+      "B. 36",
+      "C. 48",
+      "D. 50"
+    ],
+    "answer": "C",
+    "explanation": "The pattern doubles each time: 24 × 2 = 48."
+  },
+  {
+    "id": 328,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "medium",
+    "question": "Which word does NOT belong?",
+    "choices": [
+      "A. Dog",
+      "B. Lion",
+      "C. Cow",
+      "D. Car"
+    ],
+    "answer": "D",
+    "explanation": "Car is not an animal, unlike the others."
+  },
+  {
+    "id": 329,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "medium",
+    "question": "If 5 workers build 5 houses in 5 days, how many workers are needed to build 1 house in 5 days?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 5",
+      "D. 10"
+    ],
+    "answer": "A",
+    "explanation": "One worker builds one house in the same time if efficiency is equal."
+  },
+  {
+    "id": 330,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "medium",
+    "question": "What is the missing number: 2, 5, 10, 17, ?",
+    "choices": [
+      "A. 24",
+      "B. 26",
+      "C. 28",
+      "D. 30"
+    ],
+    "answer": "B",
+    "explanation": "Pattern increases by +3, +5, +7, +9 → next is 26."
+  },
+
+  {
+    "id": 331,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "medium",
+    "question": "Which is the odd one out?",
+    "choices": [
+      "A. Square",
+      "B. Circle",
+      "C. Triangle",
+      "D. Ball"
+    ],
+    "answer": "D",
+    "explanation": "Ball is a 3D object, others are 2D shapes."
+  },
+  {
+    "id": 332,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "medium",
+    "question": "What comes next: A, C, E, G, ?",
+    "choices": [
+      "A. H",
+      "B. I",
+      "C. J",
+      "D. K"
+    ],
+    "answer": "B",
+    "explanation": "Pattern skips one letter: A, C, E, G, I."
+  },
+  {
+    "id": 333,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "medium",
+    "question": "If today is Monday, what day is after 3 days?",
+    "choices": [
+      "A. Tuesday",
+      "B. Wednesday",
+      "C. Thursday",
+      "D. Friday"
+    ],
+    "answer": "C",
+    "explanation": "Monday + 3 days = Thursday."
+  },
+  {
+    "id": 334,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "medium",
+    "question": "What is 15% of 100?",
+    "choices": [
+      "A. 10",
+      "B. 15",
+      "C. 20",
+      "D. 25"
+    ],
+    "answer": "B",
+    "explanation": "15% of 100 = 15."
+  },
+  {
+    "id": 335,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "medium",
+    "question": "Which number is divisible by 3?",
+    "choices": [
+      "A. 14",
+      "B. 16",
+      "C. 18",
+      "D. 20"
+    ],
+    "answer": "C",
+    "explanation": "18 ÷ 3 = 6, so it is divisible by 3."
+  },
+
+  {
+    "id": 336,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "hard",
+    "question": "If ALL A are B, and ALL B are C, then:",
+    "choices": [
+      "A. Some C are A",
+      "B. All A are C",
+      "C. No A are C",
+      "D. Cannot conclude"
+    ],
+    "answer": "B",
+    "explanation": "This is logical transitivity: A → B → C, so A → C."
+  },
+  {
+    "id": 337,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "hard",
+    "question": "What is the next number: 1, 4, 9, 16, ?",
+    "choices": [
+      "A. 20",
+      "B. 24",
+      "C. 25",
+      "D. 30"
+    ],
+    "answer": "C",
+    "explanation": "These are square numbers: 1², 2², 3², 4², 5² = 25."
+  },
+  {
+    "id": 338,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "hard",
+    "question": "A train travels 60 km in 1 hour. How far in 3.5 hours?",
+    "choices": [
+      "A. 180 km",
+      "B. 200 km",
+      "C. 210 km",
+      "D. 220 km"
+    ],
+    "answer": "C",
+    "explanation": "60 × 3.5 = 210 km."
+  },
+  {
+    "id": 339,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "hard",
+    "question": "What is the missing number: 100, 81, 64, 49, ?",
+    "choices": [
+      "A. 36",
+      "B. 25",
+      "C. 16",
+      "D. 9"
+    ],
+    "answer": "A",
+    "explanation": "These are descending squares: 10², 9², 8², 7², 6² = 36."
+  },
+  {
+    "id": 340,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "hard",
+    "question": "If you rearrange 'LISTEN', you get:",
+    "choices": [
+      "A. SILENT",
+      "B. LISTER",
+      "C. TINSEL",
+      "D. ENLISTED"
+    ],
+    "answer": "A",
+    "explanation": "LISTEN and SILENT are anagrams."
+  },
+
+  {
+    "id": 341,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "hard",
+    "question": "What comes next: 2, 3, 5, 7, 11, ?",
+    "choices": [
+      "A. 12",
+      "B. 13",
+      "C. 14",
+      "D. 15"
+    ],
+    "answer": "B",
+    "explanation": "These are prime numbers; next is 13."
+  },
+  {
+    "id": 342,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "hard",
+    "question": "A man is twice as old as his son. In 20 years, he will be 1.5 times older. What is the son's current age?",
+    "choices": [
+      "A. 10",
+      "B. 15",
+      "C. 20",
+      "D. 25"
+    ],
+    "answer": "A",
+    "explanation": "Let son = 10, father = 20. In 20 years: 30 and 40 → ratio 1.5."
+  },
+  {
+    "id": 343,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "hard",
+    "question": "Which number does NOT belong: 2, 3, 5, 9, 11?",
+    "choices": [
+      "A. 2",
+      "B. 3",
+      "C. 5",
+      "D. 9"
+    ],
+    "answer": "D",
+    "explanation": "9 is not a prime number; others are primes."
+  },
+  {
+    "id": 344,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "hard",
+    "question": "What is the logic rule: If A > B and B > C, then?",
+    "choices": [
+      "A. C > A",
+      "B. A > C",
+      "C. B > A",
+      "D. No relation"
+    ],
+    "answer": "B",
+    "explanation": "Transitive logic: if A > B and B > C, then A > C."
+  },
+  {
+    "id": 345,
+    "category": "IQ & Brain Teasers",
+    "difficulty": "hard",
+    "question": "What is the next number: 0, 1, 1, 2, 3, 5, 8, ?",
+    "choices": [
+      "A. 10",
+      "B. 11",
+      "C. 12",
+      "D. 13"
+    ],
+    "answer": "D",
+    "explanation": "This is the Fibonacci sequence; next number is 13."
+  },
+    {
+      "id": 346,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "easy",
+      "question": "What comes next in the sequence: 10, 20, 30, 40, ?",
+      "choices": ["A. 45", "B. 50", "C. 60", "D. 70"],
+      "answer": "B",
+      "explanation": "The pattern increases by 10 each time: 40 + 10 = 50."
+    },
+    {
+      "id": 347,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "easy",
+      "question": "Which is heavier?",
+      "choices": ["A. 1kg iron", "B. 1kg cotton", "C. Both equal", "D. Cannot tell"],
+      "answer": "C",
+      "explanation": "1kg is 1kg regardless of material."
+    },
+    {
+      "id": 348,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "easy",
+      "question": "What is 6 × 6?",
+      "choices": ["A. 30", "B. 36", "C. 42", "D. 48"],
+      "answer": "B",
+      "explanation": "6 × 6 = 36."
+    },
+    {
+      "id": 349,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "easy",
+      "question": "Which day comes before Sunday?",
+      "choices": ["A. Monday", "B. Friday", "C. Saturday", "D. Thursday"],
+      "answer": "C",
+      "explanation": "Saturday comes before Sunday."
+    },
+    {
+      "id": 350,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "easy",
+      "question": "What is the opposite of hot?",
+      "choices": ["A. Warm", "B. Cold", "C. Boiling", "D. Heat"],
+      "answer": "B",
+      "explanation": "Cold is the opposite of hot."
+    },
+    {
+      "id": 351,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "easy",
+      "question": "How many months are in a year?",
+      "choices": ["A. 10", "B. 11", "C. 12", "D. 13"],
+      "answer": "C",
+      "explanation": "A year has 12 months."
+    },
+    {
+      "id": 352,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "easy",
+      "question": "Which is a fruit?",
+      "choices": ["A. Tomato", "B. Carrot", "C. Potato", "D. Onion"],
+      "answer": "A",
+      "explanation": "Tomato is botanically a fruit."
+    },
+    {
+      "id": 353,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "easy",
+      "question": "What comes after 99?",
+      "choices": ["A. 98", "B. 100", "C. 101", "D. 110"],
+      "answer": "B",
+      "explanation": "The next number after 99 is 100."
+    },
+    {
+      "id": 354,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "easy",
+      "question": "How many legs does a spider have?",
+      "choices": ["A. 6", "B. 8", "C. 10", "D. 12"],
+      "answer": "B",
+      "explanation": "Spiders have 8 legs."
+    },
+    {
+      "id": 355,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "easy",
+      "question": "What color is the sky usually?",
+      "choices": ["A. Green", "B. Blue", "C. Red", "D. Yellow"],
+      "answer": "B",
+      "explanation": "The sky appears blue due to light scattering."
+    },
+    {
+      "id": 356,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "medium",
+      "question": "What is the next number: 1, 3, 6, 10, ?",
+      "choices": ["A. 12", "B. 14", "C. 15", "D. 16"],
+      "answer": "C",
+      "explanation": "Pattern adds +2, +3, +4, +5 → next is 15."
+    },
+    {
+      "id": 357,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "medium",
+      "question": "Which word is different?",
+      "choices": ["A. Chair", "B. Table", "C. Bed", "D. Car"],
+      "answer": "D",
+      "explanation": "Car is a vehicle; others are furniture."
+    },
+    {
+      "id": 358,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "medium",
+      "question": "If 2x = 10, what is x?",
+      "choices": ["A. 2", "B. 3", "C. 5", "D. 6"],
+      "answer": "C",
+      "explanation": "x = 10 ÷ 2 = 5."
+    },
+    {
+      "id": 359,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "medium",
+      "question": "Which is a prime number?",
+      "choices": ["A. 9", "B. 15", "C. 17", "D. 21"],
+      "answer": "C",
+      "explanation": "17 has only two factors: 1 and itself."
+    },
+    {
+      "id": 360,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "medium",
+      "question": "What comes next: Z, X, V, T, ?",
+      "choices": ["A. R", "B. S", "C. Q", "D. P"],
+      "answer": "A",
+      "explanation": "Pattern skips one letter backward: Z→X→V→T→R."
+    },
+    {
+      "id": 391,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "hard",
+      "question": "If all roses are flowers and some flowers fade quickly, can we conclude all roses fade quickly?",
+      "choices": ["A. Yes", "B. No", "C. Always true", "D. Uncertain"],
+      "answer": "B",
+      "explanation": "Not all flowers fade quickly, so conclusion is invalid."
+    },
+    {
+      "id": 392,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "hard",
+      "question": "What is the next number: 2, 6, 12, 20, 30, ?",
+      "choices": ["A. 40", "B. 41", "C. 42", "D. 44"],
+      "answer": "C",
+      "explanation": "Pattern increases by +4, +6, +8, +10, +12 → 42."
+    },
+    {
+      "id": 393,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "hard",
+      "question": "A train leaves at 2 PM and arrives at 5 PM. How long did it travel?",
+      "choices": ["A. 2 hours", "B. 3 hours", "C. 4 hours", "D. 5 hours"],
+      "answer": "B",
+      "explanation": "5 PM - 2 PM = 3 hours."
+    },
+    {
+      "id": 394,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "hard",
+      "question": "What is 15% of 200?",
+      "choices": ["A. 25", "B. 30", "C. 35", "D. 40"],
+      "answer": "B",
+      "explanation": "15% of 200 = 30."
+    },
+    {
+      "id": 395,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "hard",
+      "question": "Which number completes the pattern: 3, 9, 27, ?",
+      "choices": ["A. 54", "B. 72", "C. 81", "D. 90"],
+      "answer": "C",
+      "explanation": "Pattern ×3: 3→9→27→81."
+    },
+
+    {
+      "id": 396,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "hard",
+      "question": "If 5 machines take 5 minutes to make 5 items, how long do 100 machines take to make 100 items?",
+      "choices": [
+        "A. 5 minutes",
+        "B. 10 minutes",
+        "C. 100 minutes",
+        "D. 50 minutes"
+      ],
+      "answer": "A",
+      "explanation": "Each machine makes 1 item in 5 minutes, so 100 machines still take 5 minutes."
+    },
+    {
+      "id": 397,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "hard",
+      "question": "What is the missing number: 8, 27, 64, 125, ?",
+      "choices": [
+        "A. 144",
+        "B. 150",
+        "C. 216",
+        "D. 225"
+      ],
+      "answer": "C",
+      "explanation": "These are cubes: 2³, 3³, 4³, 5³, 6³ = 216."
+    },
+    {
+      "id": 398,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "hard",
+      "question": "A man buys a product for 100 and sells it for 120. What is his profit percentage?",
+      "choices": [
+        "A. 10%",
+        "B. 15%",
+        "C. 20%",
+        "D. 25%"
+      ],
+      "answer": "C",
+      "explanation": "Profit = 20, so 20/100 × 100 = 20%."
+    },
+    {
+      "id": 399,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "hard",
+      "question": "What is the next number: 121, 144, 169, 196, ?",
+      "choices": [
+        "A. 210",
+        "B. 225",
+        "C. 256",
+        "D. 289"
+      ],
+      "answer": "B",
+      "explanation": "These are squares: 11², 12², 13², 14², 15² = 225."
+    },
+    {
+      "id": 400,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "hard",
+      "question": "If A = 1, B = 2, C = 3, what is the value of CAB?",
+      "choices": [
+        "A. 312",
+        "B. 321",
+        "C. 213",
+        "D. 123"
+      ],
+      "answer": "A",
+      "explanation": "C=3, A=1, B=2 → CAB = 312."
+    },
+    {
+      "id": 401,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "hard",
+      "question": "What is the logic pattern: 1, 11, 21, 1211, 111221, ?",
+      "choices": [
+        "A. 312211",
+        "B. 131122",
+        "C. 211211",
+        "D. 112321"
+      ],
+      "answer": "A",
+      "explanation": "This is a look-and-say sequence."
+    },
+    {
+      "id": 402,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "hard",
+      "question": "A father is 40 and his son is 10. In how many years will father be twice the son's age?",
+      "choices": [
+        "A. 10",
+        "B. 15",
+        "C. 20",
+        "D. 25"
+      ],
+      "answer": "C",
+      "explanation": "After 20 years: father=60, son=30 → 2x."
+    },
+    {
+      "id": 403,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "hard",
+      "question": "Which number is missing: 4, 9, 16, 25, ?, 49",
+      "choices": [
+        "A. 30",
+        "B. 32",
+        "C. 36",
+        "D. 40"
+      ],
+      "answer": "C",
+      "explanation": "Square numbers: 2², 3², 4², 5², 6², 7²."
+    },
+    {
+      "id": 404,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "hard",
+      "question": "If you reverse the word 'GOD', what do you get?",
+      "choices": [
+        "A. DOG",
+        "B. GOD",
+        "C. DGO",
+        "D. OGD"
+      ],
+      "answer": "A",
+      "explanation": "Reversing letters gives DOG."
+    },
+    {
+      "id": 405,
+      "category": "IQ & Brain Teasers",
+      "difficulty": "hard",
+      "question": "What is the next prime number after 29?",
+      "choices": [
+        "A. 30",
+        "B. 31",
+        "C. 33",
+        "D. 35"
+      ],
+      "answer": "B",
+      "explanation": "31 is the next prime number after 29."
+    },
+
+  {
+    "id": 406,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is money mainly used for?",
+    "choices": ["A. Collecting only", "B. Buying goods and services", "C. Throwing away", "D. Saving only"],
+    "answer": "B",
+    "explanation": "Money is used as a medium of exchange to buy goods and services."
+  },
+  {
+    "id": 407,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is saving?",
+    "choices": ["A. Spending all money", "B. Keeping money for future use", "C. Borrowing money", "D. Losing money"],
+    "answer": "B",
+    "explanation": "Saving means keeping money aside for future needs or goals."
+  },
+  {
+    "id": 408,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is income?",
+    "choices": ["A. Money you earn", "B. Money you lose", "C. Money you borrow", "D. Taxes only"],
+    "answer": "A",
+    "explanation": "Income is the money received from work, business, or investments."
+  },
+  {
+    "id": 409,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is spending?",
+    "choices": ["A. Saving money", "B. Using money to buy things", "C. Printing money", "D. Lending money"],
+    "answer": "B",
+    "explanation": "Spending means using money to purchase goods or services."
+  },
+  {
+    "id": 410,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is a bank?",
+    "choices": ["A. A shop", "B. A place that stores money", "C. A school", "D. A farm"],
+    "answer": "B",
+    "explanation": "A bank is a financial institution where people save and manage money."
+  },
+
+  {
+    "id": 411,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is a budget?",
+    "choices": ["A. A type of food", "B. A plan for spending money", "C. A loan", "D. A tax"],
+    "answer": "B",
+    "explanation": "A budget is a plan that shows how money will be spent or saved."
+  },
+  {
+    "id": 412,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is a loan?",
+    "choices": ["A. Free money", "B. Borrowed money that must be repaid", "C. Saved money", "D. Gift money"],
+    "answer": "B",
+    "explanation": "A loan is money borrowed and expected to be repaid with or without interest."
+  },
+  {
+    "id": 413,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is profit?",
+    "choices": ["A. Money lost", "B. Money earned after expenses", "C. Debt", "D. Loan interest"],
+    "answer": "B",
+    "explanation": "Profit is what remains after subtracting expenses from income."
+  },
+  {
+    "id": 414,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is expense?",
+    "choices": ["A. Money earned", "B. Money spent", "C. Money saved", "D. Money invested"],
+    "answer": "B",
+    "explanation": "An expense is money used to pay for something."
+  },
+  {
+    "id": 415,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is a customer?",
+    "choices": ["A. A seller", "B. A buyer of goods or services", "C. A worker", "D. A bank manager"],
+    "answer": "B",
+    "explanation": "A customer is someone who buys goods or services."
+  },
+
+  {
+    "id": 416,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is a salary?",
+    "choices": ["A. Free goods", "B. Regular payment for work", "C. Loan money", "D. Tax"],
+    "answer": "B",
+    "explanation": "A salary is money paid regularly for work done."
+  },
+  {
+    "id": 417,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is a job?",
+    "choices": ["A. A game", "B. Work done to earn money", "C. A hobby only", "D. A sport"],
+    "answer": "B",
+    "explanation": "A job is work done in exchange for income."
+  },
+  {
+    "id": 418,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is buying?",
+    "choices": ["A. Giving money to receive goods", "B. Taking without paying", "C. Saving money", "D. Borrowing"],
+    "answer": "A",
+    "explanation": "Buying is exchanging money for goods or services."
+  },
+  {
+    "id": 419,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is selling?",
+    "choices": ["A. Giving goods for free", "B. Exchanging goods for money", "C. Saving goods", "D. Destroying goods"],
+    "answer": "B",
+    "explanation": "Selling is giving goods or services in exchange for money."
+  },
+  {
+    "id": 420,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is change in money terms?",
+    "choices": ["A. Extra money returned after payment", "B. Loan", "C. Tax", "D. Salary"],
+    "answer": "A",
+    "explanation": "Change is the money returned when you pay more than required."
+  },
+
+  {
+    "id": 421,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is a receipt?",
+    "choices": ["A. A bill", "B. Proof of payment", "C. A loan", "D. A product"],
+    "answer": "B",
+    "explanation": "A receipt is proof that payment has been made."
+  },
+  {
+    "id": 422,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is borrowing?",
+    "choices": ["A. Giving money", "B. Taking money to repay later", "C. Saving money", "D. Losing money"],
+    "answer": "B",
+    "explanation": "Borrowing is taking money or items with an agreement to return them."
+  },
+  {
+    "id": 423,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is debt?",
+    "choices": ["A. Money owed to someone", "B. Money saved", "C. Income", "D. Gift"],
+    "answer": "A",
+    "explanation": "Debt is money that must be repaid."
+  },
+  {
+    "id": 424,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is a business?",
+    "choices": ["A. A place for playing", "B. An activity to earn profit", "C. A school subject", "D. A sport"],
+    "answer": "B",
+    "explanation": "A business is an organization that sells goods or services for profit."
+  },
+  {
+    "id": 425,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is investment?",
+    "choices": ["A. Spending all money", "B. Using money to grow more money", "C. Losing money", "D. Donating money"],
+    "answer": "B",
+    "explanation": "Investment is using money to generate future profit."
+  },
+
+  {
+    "id": 426,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is a price?",
+    "choices": ["A. The value of a product in money", "B. A gift", "C. A loan", "D. A discount only"],
+    "answer": "A",
+    "explanation": "Price is the amount of money something costs."
+  },
+  {
+    "id": 427,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is discount?",
+    "choices": ["A. Extra cost", "B. Reduction in price", "C. Loan", "D. Salary"],
+    "answer": "B",
+    "explanation": "A discount is a reduction in the original price."
+  },
+  {
+    "id": 428,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is trade?",
+    "choices": ["A. Exchange of goods/services", "B. Stealing", "C. Saving", "D. Cooking"],
+    "answer": "A",
+    "explanation": "Trade is the exchange of goods or services between people or businesses."
+  },
+  {
+    "id": 429,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is wealth?",
+    "choices": ["A. Having no money", "B. Having valuable resources and money", "C. Debt only", "D. Expenses only"],
+    "answer": "B",
+    "explanation": "Wealth refers to valuable possessions and financial resources."
+  },
+  {
+    "id": 430,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is need?",
+    "choices": ["A. Something necessary for survival", "B. Luxury item", "C. Gift", "D. Extra money"],
+    "answer": "A",
+    "explanation": "Needs are essential things like food, water, and shelter."
+  },
+
+  {
+    "id": 431,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is want?",
+    "choices": ["A. Something unnecessary but desired", "B. Food only", "C. Water only", "D. Shelter only"],
+    "answer": "A",
+    "explanation": "Wants are things people desire but are not essential."
+  },
+  {
+    "id": 432,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is cash?",
+    "choices": ["A. Money in physical form", "B. Debt", "C. Loan", "D. Tax"],
+    "answer": "A",
+    "explanation": "Cash is physical money like coins and notes."
+  },
+  {
+    "id": 433,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is a wallet used for?",
+    "choices": ["A. Cooking food", "B. Carrying money", "C. Writing notes", "D. Playing games"],
+    "answer": "B",
+    "explanation": "A wallet is used to store money and cards."
+  },
+  {
+    "id": 434,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is exchange rate?",
+    "choices": ["A. Price of food", "B. Value of one currency compared to another", "C. Loan system", "D. Salary type"],
+    "answer": "B",
+    "explanation": "Exchange rate shows how one currency is valued against another."
+  },
+  {
+    "id": 435,
+    "category": "Finance & Money Skills",
+    "difficulty": "easy",
+    "question": "What is ATM?",
+    "choices": ["A. Air Transport Machine", "B. Automated Teller Machine", "C. Account Transfer Method", "D. Asset Tax Model"],
+    "answer": "B",
+    "explanation": "ATM is a machine used to withdraw or deposit money."
+  },
+    {
+      "id": 436,
+      "category": "Finance & Money Skills",
+      "difficulty": "medium",
+      "question": "What is the main purpose of a budget?",
+      "choices": [
+        "A. To spend all money quickly",
+        "B. To plan income and expenses",
+        "C. To avoid saving",
+        "D. To increase debt"
+      ],
+      "answer": "B",
+      "explanation": "A budget helps plan how money will be earned and spent wisely."
+    },
+    {
+      "id": 437,
+      "category": "Finance & Money Skills",
+      "difficulty": "medium",
+      "question": "What happens when expenses are greater than income?",
+      "choices": [
+        "A. Profit",
+        "B. Surplus",
+        "C. Deficit",
+        "D. Investment"
+      ],
+      "answer": "C",
+      "explanation": "A deficit occurs when spending is higher than income."
+    },
+    {
+      "id": 438,
+      "category": "Finance & Money Skills",
+      "difficulty": "medium",
+      "question": "What is interest in banking?",
+      "choices": [
+        "A. Free money from bank",
+        "B. Extra money paid for borrowing or earned on savings",
+        "C. Tax payment",
+        "D. Salary bonus"
+      ],
+      "answer": "B",
+      "explanation": "Interest is the cost of borrowing or reward for saving money."
+    },
+    {
+      "id": 439,
+      "category": "Finance & Money Skills",
+      "difficulty": "medium",
+      "question": "What is financial literacy?",
+      "choices": [
+        "A. Ability to cook food",
+        "B. Understanding how money works and how to manage it",
+        "C. Ability to play sports",
+        "D. Ability to borrow money only"
+      ],
+      "answer": "B",
+      "explanation": "Financial literacy is the knowledge of managing money effectively."
+    },
+    {
+      "id": 440,
+      "category": "Finance & Money Skills",
+      "difficulty": "medium",
+      "question": "What is a savings account?",
+      "choices": [
+        "A. Account for spending daily",
+        "B. Bank account used to store money safely and earn interest",
+        "C. Loan account",
+        "D. Debt account"
+      ],
+      "answer": "B",
+      "explanation": "A savings account is used to store money and earn interest over time."
+    },
+
+    {
+      "id": 441,
+      "category": "Finance & Money Skills",
+      "difficulty": "medium",
+      "question": "What is inflation?",
+      "choices": [
+        "A. Decrease in prices",
+        "B. Increase in general price levels over time",
+        "C. Increase in salaries only",
+        "D. Reduction in money supply to zero"
+      ],
+      "answer": "B",
+      "explanation": "Inflation is the rise in prices, reducing purchasing power."
+    },
+    {
+      "id": 442,
+      "category": "Finance & Money Skills",
+      "difficulty": "medium",
+      "question": "What is a financial goal?",
+      "choices": [
+        "A. Random spending",
+        "B. A target for saving or spending money",
+        "C. Borrowing money endlessly",
+        "D. Avoiding money"
+      ],
+      "answer": "B",
+      "explanation": "A financial goal is a planned target for managing money."
+    },
+    {
+      "id": 443,
+      "category": "Finance & Money Skills",
+      "difficulty": "medium",
+      "question": "What is a bank loan used for?",
+      "choices": [
+        "A. Free shopping",
+        "B. Borrowing money for a specific purpose",
+        "C. Donating money",
+        "D. Printing money"
+      ],
+      "answer": "B",
+      "explanation": "A loan is borrowed money used for needs like business or education."
+    },
+    {
+      "id": 444,
+      "category": "Finance & Money Skills",
+      "difficulty": "medium",
+      "question": "What is capital in business?",
+      "choices": [
+        "A. Profit only",
+        "B. Money used to start or run a business",
+        "C. Taxes",
+        "D. Expenses only"
+      ],
+      "answer": "B",
+      "explanation": "Capital is the money invested into a business."
+    },
+    {
+      "id": 445,
+      "category": "Finance & Money Skills",
+      "difficulty": "medium",
+      "question": "What is a liability?",
+      "choices": [
+        "A. Something owned",
+        "B. Something owed (debt or obligation)",
+        "C. Income",
+        "D. Profit"
+      ],
+      "answer": "B",
+      "explanation": "Liability is money or obligation a person or business owes."
+    },
+
+    {
+      "id": 446,
+      "category": "Finance & Money Skills",
+      "difficulty": "medium",
+      "question": "What is an asset?",
+      "choices": [
+        "A. Something that creates value or income",
+        "B. A debt",
+        "C. A loss",
+        "D. A tax"
+      ],
+      "answer": "A",
+      "explanation": "An asset is something valuable owned that can generate income."
+    },
+    {
+      "id": 447,
+      "category": "Finance & Money Skills",
+      "difficulty": "medium",
+      "question": "What is entrepreneurship?",
+      "choices": [
+        "A. Working for salary only",
+        "B. Creating and running a business",
+        "C. Spending money only",
+        "D. Avoiding work"
+      ],
+      "answer": "B",
+      "explanation": "Entrepreneurship is starting and managing a business venture."
+    },
+    {
+      "id": 448,
+      "category": "Finance & Money Skills",
+      "difficulty": "medium",
+      "question": "What is risk in finance?",
+      "choices": [
+        "A. Guaranteed profit",
+        "B. Possibility of losing money",
+        "C. Salary increase",
+        "D. Saving money"
+      ],
+      "answer": "B",
+      "explanation": "Risk is the chance of financial loss."
+    },
+    {
+      "id": 449,
+      "category": "Finance & Money Skills",
+      "difficulty": "medium",
+      "question": "What is diversification?",
+      "choices": [
+        "A. Putting all money in one place",
+        "B. Spreading investments to reduce risk",
+        "C. Avoiding investments",
+        "D. Borrowing money"
+      ],
+      "answer": "B",
+      "explanation": "Diversification reduces risk by spreading investments."
+    },
+    {
+      "id": 450,
+      "category": "Finance & Money Skills",
+      "difficulty": "medium",
+      "question": "What is a transaction?",
+      "choices": [
+        "A. A business failure",
+        "B. Exchange of money for goods or services",
+        "C. A loan only",
+        "D. A donation only"
+      ],
+      "answer": "B",
+      "explanation": "A transaction is any exchange involving money."
+    },
+
+    {
+      "id": 451,
+      "category": "Finance & Money Skills",
+      "difficulty": "medium",
+      "question": "What is mobile money?",
+      "choices": [
+        "A. Physical cash only",
+        "B. Digital money sent via mobile phones",
+        "C. Paper money only",
+        "D. Bank loans only"
+      ],
+      "answer": "B",
+      "explanation": "Mobile money allows digital transactions using phones."
+    },
+    {
+      "id": 452,
+      "category": "Finance & Money Skills",
+      "difficulty": "medium",
+      "question": "What is financial planning?",
+      "choices": [
+        "A. Spending randomly",
+        "B. Organizing income, expenses, and savings",
+        "C. Avoiding money",
+        "D. Only borrowing"
+      ],
+      "answer": "B",
+      "explanation": "Financial planning helps manage money for future goals."
+    },
+    {
+      "id": 453,
+      "category": "Finance & Money Skills",
+      "difficulty": "medium",
+      "question": "What is a tax?",
+      "choices": [
+        "A. Free money from government",
+        "B. Mandatory payment to government",
+        "C. Loan from bank",
+        "D. Salary bonus"
+      ],
+      "answer": "B",
+      "explanation": "Tax is money paid to government for public services."
+    },
+    {
+      "id": 454,
+      "category": "Finance & Money Skills",
+      "difficulty": "medium",
+      "question": "What is entrepreneurship profit reinvestment?",
+      "choices": [
+        "A. Spending all profit",
+        "B. Using profit to grow business",
+        "C. Losing profit",
+        "D. Giving profit away"
+      ],
+      "answer": "B",
+      "explanation": "Reinvesting profit helps grow a business."
+    },
+    {
+      "id": 455,
+      "category": "Finance & Money Skills",
+      "difficulty": "medium",
+      "question": "What is a financial statement?",
+      "choices": [
+        "A. A story book",
+        "B. A record of financial activities",
+        "C. A loan form",
+        "D. A receipt only"
+      ],
+      "answer": "B",
+      "explanation": "Financial statements show business income and expenses."
+    },
+  {
+    "id": 436,
+    "category": "Finance & Money Skills",
+    "difficulty": "medium",
+    "question": "What is the main purpose of a budget?",
+    "choices": [
+      "A. To spend all money quickly",
+      "B. To plan income and expenses",
+      "C. To avoid saving",
+      "D. To increase debt"
+    ],
+    "answer": "B",
+    "explanation": "A budget helps plan how money will be earned and spent wisely."
+  },
+  {
+    "id": 437,
+    "category": "Finance & Money Skills",
+    "difficulty": "medium",
+    "question": "What happens when expenses are greater than income?",
+    "choices": [
+      "A. Profit",
+      "B. Surplus",
+      "C. Deficit",
+      "D. Investment"
+    ],
+    "answer": "C",
+    "explanation": "A deficit occurs when spending is higher than income."
+  },
+  {
+    "id": 438,
+    "category": "Finance & Money Skills",
+    "difficulty": "medium",
+    "question": "What is interest in banking?",
+    "choices": [
+      "A. Free money from bank",
+      "B. Extra money paid for borrowing or earned on savings",
+      "C. Tax payment",
+      "D. Salary bonus"
+    ],
+    "answer": "B",
+    "explanation": "Interest is the cost of borrowing or reward for saving money."
+  },
+  {
+    "id": 439,
+    "category": "Finance & Money Skills",
+    "difficulty": "medium",
+    "question": "What is financial literacy?",
+    "choices": [
+      "A. Ability to cook food",
+      "B. Understanding how money works and how to manage it",
+      "C. Ability to play sports",
+      "D. Ability to borrow money only"
+    ],
+    "answer": "B",
+    "explanation": "Financial literacy is the knowledge of managing money effectively."
+  },
+  {
+    "id": 440,
+    "category": "Finance & Money Skills",
+    "difficulty": "medium",
+    "question": "What is a savings account?",
+    "choices": [
+      "A. Account for spending daily",
+      "B. Bank account used to store money safely and earn interest",
+      "C. Loan account",
+      "D. Debt account"
+    ],
+    "answer": "B",
+    "explanation": "A savings account is used to store money and earn interest over time."
+  },
+
+  {
+    "id": 441,
+    "category": "Finance & Money Skills",
+    "difficulty": "medium",
+    "question": "What is inflation?",
+    "choices": [
+      "A. Decrease in prices",
+      "B. Increase in general price levels over time",
+      "C. Increase in salaries only",
+      "D. Reduction in money supply to zero"
+    ],
+    "answer": "B",
+    "explanation": "Inflation is the rise in prices, reducing purchasing power."
+  },
+  {
+    "id": 442,
+    "category": "Finance & Money Skills",
+    "difficulty": "medium",
+    "question": "What is a financial goal?",
+    "choices": [
+      "A. Random spending",
+      "B. A target for saving or spending money",
+      "C. Borrowing money endlessly",
+      "D. Avoiding money"
+    ],
+    "answer": "B",
+    "explanation": "A financial goal is a planned target for managing money."
+  },
+  {
+    "id": 443,
+    "category": "Finance & Money Skills",
+    "difficulty": "medium",
+    "question": "What is a bank loan used for?",
+    "choices": [
+      "A. Free shopping",
+      "B. Borrowing money for a specific purpose",
+      "C. Donating money",
+      "D. Printing money"
+    ],
+    "answer": "B",
+    "explanation": "A loan is borrowed money used for needs like business or education."
+  },
+  {
+    "id": 444,
+    "category": "Finance & Money Skills",
+    "difficulty": "medium",
+    "question": "What is capital in business?",
+    "choices": [
+      "A. Profit only",
+      "B. Money used to start or run a business",
+      "C. Taxes",
+      "D. Expenses only"
+    ],
+    "answer": "B",
+    "explanation": "Capital is the money invested into a business."
+  },
+  {
+    "id": 445,
+    "category": "Finance & Money Skills",
+    "difficulty": "medium",
+    "question": "What is a liability?",
+    "choices": [
+      "A. Something owned",
+      "B. Something owed (debt or obligation)",
+      "C. Income",
+      "D. Profit"
+    ],
+    "answer": "B",
+    "explanation": "Liability is money or obligation a person or business owes."
+  },
+
+  {
+    "id": 446,
+    "category": "Finance & Money Skills",
+    "difficulty": "medium",
+    "question": "What is an asset?",
+    "choices": [
+      "A. Something that creates value or income",
+      "B. A debt",
+      "C. A loss",
+      "D. A tax"
+    ],
+    "answer": "A",
+    "explanation": "An asset is something valuable owned that can generate income."
+  },
+  {
+    "id": 447,
+    "category": "Finance & Money Skills",
+    "difficulty": "medium",
+    "question": "What is entrepreneurship?",
+    "choices": [
+      "A. Working for salary only",
+      "B. Creating and running a business",
+      "C. Spending money only",
+      "D. Avoiding work"
+    ],
+    "answer": "B",
+    "explanation": "Entrepreneurship is starting and managing a business venture."
+  },
+  {
+    "id": 448,
+    "category": "Finance & Money Skills",
+    "difficulty": "medium",
+    "question": "What is risk in finance?",
+    "choices": [
+      "A. Guaranteed profit",
+      "B. Possibility of losing money",
+      "C. Salary increase",
+      "D. Saving money"
+    ],
+    "answer": "B",
+    "explanation": "Risk is the chance of financial loss."
+  },
+  {
+    "id": 449,
+    "category": "Finance & Money Skills",
+    "difficulty": "medium",
+    "question": "What is diversification?",
+    "choices": [
+      "A. Putting all money in one place",
+      "B. Spreading investments to reduce risk",
+      "C. Avoiding investments",
+      "D. Borrowing money"
+    ],
+    "answer": "B",
+    "explanation": "Diversification reduces risk by spreading investments."
+  },
+  {
+    "id": 450,
+    "category": "Finance & Money Skills",
+    "difficulty": "medium",
+    "question": "What is a transaction?",
+    "choices": [
+      "A. A business failure",
+      "B. Exchange of money for goods or services",
+      "C. A loan only",
+      "D. A donation only"
+    ],
+    "answer": "B",
+    "explanation": "A transaction is any exchange involving money."
+  },
+
+  {
+    "id": 451,
+    "category": "Finance & Money Skills",
+    "difficulty": "medium",
+    "question": "What is mobile money?",
+    "choices": [
+      "A. Physical cash only",
+      "B. Digital money sent via mobile phones",
+      "C. Paper money only",
+      "D. Bank loans only"
+    ],
+    "answer": "B",
+    "explanation": "Mobile money allows digital transactions using phones."
+  },
+  {
+    "id": 452,
+    "category": "Finance & Money Skills",
+    "difficulty": "medium",
+    "question": "What is financial planning?",
+    "choices": [
+      "A. Spending randomly",
+      "B. Organizing income, expenses, and savings",
+      "C. Avoiding money",
+      "D. Only borrowing"
+    ],
+    "answer": "B",
+    "explanation": "Financial planning helps manage money for future goals."
+  },
+  {
+    "id": 453,
+    "category": "Finance & Money Skills",
+    "difficulty": "medium",
+    "question": "What is a tax?",
+    "choices": [
+      "A. Free money from government",
+      "B. Mandatory payment to government",
+      "C. Loan from bank",
+      "D. Salary bonus"
+    ],
+    "answer": "B",
+    "explanation": "Tax is money paid to government for public services."
+  },
+  {
+    "id": 454,
+    "category": "Finance & Money Skills",
+    "difficulty": "medium",
+    "question": "What is entrepreneurship profit reinvestment?",
+    "choices": [
+      "A. Spending all profit",
+      "B. Using profit to grow business",
+      "C. Losing profit",
+      "D. Giving profit away"
+    ],
+    "answer": "B",
+    "explanation": "Reinvesting profit helps grow a business."
+  },
+  {
+    "id": 455,
+    "category": "Finance & Money Skills",
+    "difficulty": "medium",
+    "question": "What is a financial statement?",
+    "choices": [
+      "A. A story book",
+      "B. A record of financial activities",
+      "C. A loan form",
+      "D. A receipt only"
+    ],
+    "answer": "B",
+    "explanation": "Financial statements show business income and expenses."
+  },
+
+  {
+    "id": 456,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is compound interest?",
+    "choices": [
+      "A. Interest earned only on original amount",
+      "B. Interest earned on both principal and previously earned interest",
+      "C. A fixed salary increase",
+      "D. A one-time payment"
+    ],
+    "answer": "B",
+    "explanation": "Compound interest grows by earning interest on both the initial money and accumulated interest."
+  },
+  {
+    "id": 457,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What does liquidity mean in finance?",
+    "choices": [
+      "A. Difficulty selling assets",
+      "B. Ease of converting assets into cash",
+      "C. Amount of debt",
+      "D. Business size"
+    ],
+    "answer": "B",
+    "explanation": "Liquidity measures how quickly assets can be turned into cash."
+  },
+  {
+    "id": 458,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is ROI in business?",
+    "choices": [
+      "A. Return on Investment",
+      "B. Rate of Income",
+      "C. Risk of Investment",
+      "D. Revenue of Income"
+    ],
+    "answer": "A",
+    "explanation": "ROI measures profit gained from an investment compared to its cost."
+  },
+  {
+    "id": 459,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is leverage in finance?",
+    "choices": [
+      "A. Using only personal savings",
+      "B. Using borrowed funds to increase potential return",
+      "C. Avoiding investments",
+      "D. Paying taxes"
+    ],
+    "answer": "B",
+    "explanation": "Leverage means using borrowed money to increase investment power."
+  },
+  {
+    "id": 460,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is inflation risk?",
+    "choices": [
+      "A. Risk of currency becoming more valuable",
+      "B. Risk that prices rise and reduce purchasing power",
+      "C. Risk of saving too much money",
+      "D. Risk of no spending"
+    ],
+    "answer": "B",
+    "explanation": "Inflation risk reduces the value of money over time."
+  },
+
+  {
+    "id": 461,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is opportunity cost?",
+    "choices": [
+      "A. Money earned from job",
+      "B. Value of the next best alternative forgone",
+      "C. Total business profit",
+      "D. Bank interest"
+    ],
+    "answer": "B",
+    "explanation": "Opportunity cost is what you give up when choosing one option over another."
+  },
+  {
+    "id": 462,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is a bull market?",
+    "choices": [
+      "A. Market with falling prices",
+      "B. Market with rising prices and investor confidence",
+      "C. Closed market",
+      "D. Illegal market"
+    ],
+    "answer": "B",
+    "explanation": "A bull market means prices are rising and investors are optimistic."
+  },
+  {
+    "id": 463,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is a bear market?",
+    "choices": [
+      "A. Market with rising prices",
+      "B. Market with falling prices",
+      "C. Stable market",
+      "D. Growing economy"
+    ],
+    "answer": "B",
+    "explanation": "A bear market means prices are falling and confidence is low."
+  },
+  {
+    "id": 464,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is financial risk management?",
+    "choices": [
+      "A. Ignoring risks",
+      "B. Identifying and reducing financial risks",
+      "C. Increasing losses",
+      "D. Avoiding income"
+    ],
+    "answer": "B",
+    "explanation": "It involves controlling possible financial losses."
+  },
+  {
+    "id": 465,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is capital gain?",
+    "choices": [
+      "A. Loss from investment",
+      "B. Profit from selling an asset",
+      "C. Salary payment",
+      "D. Loan repayment"
+    ],
+    "answer": "B",
+    "explanation": "Capital gain is profit made when an asset is sold at a higher price."
+  },
+
+  {
+    "id": 466,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is financial leverage risk?",
+    "choices": [
+      "A. Risk of using borrowed money",
+      "B. Risk of saving too much",
+      "C. Risk of spending cash only",
+      "D. Risk of no income"
+    ],
+    "answer": "A",
+    "explanation": "Borrowing increases potential profit but also increases risk."
+  },
+  {
+    "id": 467,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is portfolio in finance?",
+    "choices": [
+      "A. Single investment",
+      "B. Collection of different investments",
+      "C. Bank account only",
+      "D. Salary record"
+    ],
+    "answer": "B",
+    "explanation": "A portfolio contains multiple investments to spread risk."
+  },
+  {
+    "id": 468,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is depreciation?",
+    "choices": [
+      "A. Increase in value",
+      "B. Decrease in value of an asset over time",
+      "C. Loan increase",
+      "D. Salary growth"
+    ],
+    "answer": "B",
+    "explanation": "Depreciation is the reduction in value of assets over time."
+  },
+  {
+    "id": 469,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is financial forecasting?",
+    "choices": [
+      "A. Guessing without data",
+      "B. Predicting future financial outcomes using data",
+      "C. Avoiding planning",
+      "D. Spending money quickly"
+    ],
+    "answer": "B",
+    "explanation": "Forecasting uses data to estimate future financial performance."
+  },
+  {
+    "id": 470,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is economic recession?",
+    "choices": [
+      "A. Rapid growth of economy",
+      "B. Period of economic decline",
+      "C. Increase in jobs",
+      "D. Rise in exports only"
+    ],
+    "answer": "B",
+    "explanation": "A recession is a slowdown in economic activity."
+  },
+
+  {
+    "id": 471,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is diversification in investment?",
+    "choices": [
+      "A. Putting money in one asset",
+      "B. Spreading investments across different assets",
+      "C. Saving only cash",
+      "D. Avoiding investments"
+    ],
+    "answer": "B",
+    "explanation": "Diversification reduces risk by investing in different areas."
+  },
+  {
+    "id": 472,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is working capital?",
+    "choices": [
+      "A. Money used for personal spending",
+      "B. Money used for daily business operations",
+      "C. Loan interest",
+      "D. Tax payment"
+    ],
+    "answer": "B",
+    "explanation": "Working capital is used to run day-to-day business activities."
+  },
+  {
+    "id": 473,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is net worth?",
+    "choices": [
+      "A. Total income only",
+      "B. Assets minus liabilities",
+      "C. Total expenses",
+      "D. Loan amount only"
+    ],
+    "answer": "B",
+    "explanation": "Net worth is what you own minus what you owe."
+  },
+  {
+    "id": 474,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is bankruptcy?",
+    "choices": [
+      "A. High profit situation",
+      "B. Legal state of inability to repay debts",
+      "C. Salary increase",
+      "D. Business expansion"
+    ],
+    "answer": "B",
+    "explanation": "Bankruptcy occurs when debts cannot be paid."
+  },
+  {
+    "id": 475,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is stock market?",
+    "choices": [
+      "A. Food market",
+      "B. Place where shares are bought and sold",
+      "C. Loan system",
+      "D. Government office"
+    ],
+    "answer": "B",
+    "explanation": "The stock market is where company shares are traded."
+  },
+
+  {
+    "id": 476,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is dividend?",
+    "choices": [
+      "A. Loan payment",
+      "B. Share of company profit paid to shareholders",
+      "C. Tax payment",
+      "D. Salary deduction"
+    ],
+    "answer": "B",
+    "explanation": "Dividends are profits shared with investors."
+  },
+  {
+    "id": 477,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is fiscal policy?",
+    "choices": [
+      "A. Business marketing plan",
+      "B. Government spending and taxation policy",
+      "C. Bank loan system",
+      "D. Personal budgeting"
+    ],
+    "answer": "B",
+    "explanation": "Fiscal policy is how government manages economy through taxes and spending."
+  },
+  {
+    "id": 478,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is monetary policy?",
+    "choices": [
+      "A. Personal savings plan",
+      "B. Control of money supply by central bank",
+      "C. Business profit system",
+      "D. Tax collection only"
+    ],
+    "answer": "B",
+    "explanation": "Monetary policy controls money supply and interest rates."
+  },
+  {
+    "id": 479,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is credit score?",
+    "choices": [
+      "A. Random number",
+      "B. Measure of creditworthiness",
+      "C. Salary level",
+      "D. Tax amount"
+    ],
+    "answer": "B",
+    "explanation": "Credit score shows how likely a person is to repay loans."
+  },
+  {
+    "id": 480,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is economic growth?",
+    "choices": [
+      "A. Decrease in production",
+      "B. Increase in production of goods and services",
+      "C. Increase in debt",
+      "D. Rise in unemployment"
+    ],
+    "answer": "B",
+    "explanation": "Economic growth means more production and income in an economy."
+  },
+
+  {
+    "id": 481,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is hedge fund?",
+    "choices": [
+      "A. Government savings account",
+      "B. Investment fund using advanced strategies",
+      "C. Bank loan",
+      "D. Tax system"
+    ],
+    "answer": "B",
+    "explanation": "Hedge funds use complex strategies to maximize returns."
+  },
+  {
+    "id": 482,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is arbitrage?",
+    "choices": [
+      "A. Buying and selling at same price",
+      "B. Buying low and selling high in different markets",
+      "C. Saving money only",
+      "D. Losing money"
+    ],
+    "answer": "B",
+    "explanation": "Arbitrage is profit from price differences in markets."
+  },
+  {
+    "id": 483,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is insolvency?",
+    "choices": [
+      "A. High income",
+      "B. Inability to pay debts when due",
+      "C. Profit increase",
+      "D. Savings growth"
+    ],
+    "answer": "B",
+    "explanation": "Insolvency means being unable to pay financial obligations."
+  },
+  {
+    "id": 484,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is venture capital?",
+    "choices": [
+      "A. Government salary",
+      "B. Investment in startup businesses",
+      "C. Bank savings",
+      "D. Tax refund"
+    ],
+    "answer": "B",
+    "explanation": "Venture capital funds startups with high growth potential."
+  },
+  {
+    "id": 485,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is asset allocation?",
+    "choices": [
+      "A. Putting money in one place",
+      "B. Distributing investments across asset types",
+      "C. Spending all money",
+      "D. Borrowing money"
+    ],
+    "answer": "B",
+    "explanation": "Asset allocation balances risk by spreading investments."
+  },
+
+  {
+    "id": 486,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is default in finance?",
+    "choices": [
+      "A. Overpayment",
+      "B. Failure to repay a loan",
+      "C. Salary increase",
+      "D. Investment gain"
+    ],
+    "answer": "B",
+    "explanation": "Default occurs when a borrower cannot repay debt."
+  },
+  {
+    "id": 487,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is collateral?",
+    "choices": [
+      "A. Free money",
+      "B. Asset used to secure a loan",
+      "C. Salary bonus",
+      "D. Tax payment"
+    ],
+    "answer": "B",
+    "explanation": "Collateral is something pledged to secure a loan."
+  },
+  {
+    "id": 488,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is speculation?",
+    "choices": [
+      "A. Safe investment",
+      "B. High-risk investment expecting high return",
+      "C. Saving money",
+      "D. Budget planning"
+    ],
+    "answer": "B",
+    "explanation": "Speculation involves risky investments for possible high returns."
+  },
+  {
+    "id": 489,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is equity financing?",
+    "choices": [
+      "A. Borrowing money",
+      "B. Raising funds by selling ownership shares",
+      "C. Paying taxes",
+      "D. Saving money"
+    ],
+    "answer": "B",
+    "explanation": "Equity financing raises capital by selling company shares."
+  },
+  {
+    "id": 490,
+    "category": "Finance & Money Skills",
+    "difficulty": "hard",
+    "question": "What is financial independence?",
+    "choices": [
+      "A. Relying on loans",
+      "B. Having enough income to cover expenses without working actively",
+      "C. Having no money",
+      "D. Being in debt"
+    ],
+    "answer": "B",
+    "explanation": "Financial independence means income covers living expenses without dependence on employment."
+  },
+  
+
+
+]
